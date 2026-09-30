@@ -1,0 +1,1097 @@
+<?xml version="1.0"?><svg id="Layer_1" data-name="Layer 1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 206.16 134.52">
+  <defs>
+    
+    <clipPath id="clippath">
+      <polygon class="cls-53" points="0 134.52 206.16 134.52 206.16 0 0 0 0 134.52 0 134.52"></polygon>
+    </clipPath>
+    <clipPath id="clippath-1">
+      <polygon class="cls-78" points="0 0 206.16 0 206.16 134.52 0 134.52 0 0 0 0"></polygon>
+    </clipPath>
+    <clipPath id="clippath-2">
+      <polygon class="cls-24" points="0 134.52 206.16 134.52 206.16 0 0 0 0 134.52 0 134.52"></polygon>
+    </clipPath>
+    <clipPath id="clippath-3">
+      <path class="cls-24" d="M181.686,66.183c.455-.683.875-1.394,1.25-2.122l.673.392c-.375.728-.795,1.442-1.25,2.122-1.354,2.028-3.037,3.796-4.877,5.01-.215.142-.43.274-.649.402-.396.229-.788.423-1.173.586-.226-.132-.451-.26-.673-.392.385-.163.774-.357,1.173-.586.219-.125.434-.26.649-.402,1.84-1.214,3.523-2.982,4.877-5.01h0Z"></path>
+    </clipPath>
+    <clipPath id="clippath-4">
+      <polygon class="cls-53" points=".347 134.458 206.093 134.458 206.093 .347 .347 .347 .347 134.458 .347 134.458"></polygon>
+    </clipPath>
+    <clipPath id="clippath-5">
+      <polygon class="cls-53" points=".347 134.458 206.093 134.458 206.093 .347 .347 .347 .347 134.458 .347 134.458"></polygon>
+    </clipPath>
+    <clipPath id="clippath-6">
+      <path class="cls-27" d="M181.686,66.183c-1.298-.995-2.597-1.994-3.891-2.989l.673.392c1.298.995,2.596,1.994,3.891,2.989-.201-.118-.472-.274-.673-.392h0Z"></path>
+    </clipPath>
+    <clipPath id="clippath-7">
+      <polygon class="cls-53" points=".347 134.458 206.093 134.458 206.093 .347 .347 .347 .347 134.458 .347 134.458"></polygon>
+    </clipPath>
+    <clipPath id="clippath-8">
+      <polygon class="cls-53" points=".347 134.458 206.093 134.458 206.093 .347 .347 .347 .347 134.458 .347 134.458"></polygon>
+    </clipPath>
+    <clipPath id="clippath-9">
+      <path class="cls-59" d="M178.441,62.706l-.673-.392c.222.038.441.111.469.121l.673.392c-.028-.01-.246-.08-.469-.121h0Z"></path>
+    </clipPath>
+    <clipPath id="clippath-10">
+      <polygon class="cls-53" points=".347 134.458 206.093 134.458 206.093 .347 .347 .347 .347 134.458 .347 134.458"></polygon>
+    </clipPath>
+    <clipPath id="clippath-11">
+      <polygon class="cls-53" points=".347 134.458 206.093 134.458 206.093 .347 .347 .347 .347 134.458 .347 134.458"></polygon>
+    </clipPath>
+    <clipPath id="clippath-12">
+      <path class="cls-61" d="M178.468,63.587l-.673-.392c-.024-.021-.205-.191-.354-.374l.673.392c.149.187.333.354.354.375h0Z"></path>
+    </clipPath>
+    <clipPath id="clippath-13">
+      <polygon class="cls-53" points=".347 134.458 206.093 134.458 206.093 .347 .347 .347 .347 134.458 .347 134.458"></polygon>
+    </clipPath>
+    <clipPath id="clippath-14">
+      <path class="cls-74" d="M177.437,62.82c.118-.163.229-.333.326-.506l.673.392c-.101.173-.208.343-.326.506l-.673-.392h0Z"></path>
+    </clipPath>
+    <clipPath id="clippath-15">
+      <polygon class="cls-53" points=".347 134.458 206.093 134.458 206.093 .347 .347 .347 .347 134.458 .347 134.458"></polygon>
+    </clipPath>
+    <clipPath id="clippath-16">
+      <path class="cls-67" d="M176.247,63.968h0l.673.392h0c-.226-.132-.451-.26-.673-.392h0Z"></path>
+    </clipPath>
+    <clipPath id="clippath-17">
+      <polygon class="cls-53" points=".347 134.458 206.093 134.458 206.093 .347 .347 .347 .347 134.458 .347 134.458"></polygon>
+    </clipPath>
+    <clipPath id="clippath-18">
+      <path class="cls-84" d="M176.136,64.037c.038-.021.076-.045.111-.066.226.132.451.26.673.392-.038.024-.073.045-.111.066-.226-.132-.448-.26-.673-.392.226.132.448.26.673.392h0c-.226-.132-.451-.26-.673-.392h0Z"></path>
+    </clipPath>
+    <clipPath id="clippath-19">
+      <polygon class="cls-53" points=".347 134.458 206.093 134.458 206.093 .347 .347 .347 .347 134.458 .347 134.458"></polygon>
+    </clipPath>
+    <clipPath id="clippath-20">
+      <polygon class="cls-53" points=".347 134.458 206.093 134.458 206.093 .347 .347 .347 .347 134.458 .347 134.458"></polygon>
+    </clipPath>
+    <clipPath id="clippath-21">
+      <path class="cls-13" d="M179.291,59.638l-.673-.392c2.104-1.408,4.211-2.815,6.314-4.219l.673.392c-2.104,1.408-4.211,2.815-6.314,4.219h0Z"></path>
+    </clipPath>
+    <clipPath id="clippath-22">
+      <polygon class="cls-53" points=".347 134.458 206.093 134.458 206.093 .347 .347 .347 .347 134.458 .347 134.458"></polygon>
+    </clipPath>
+    <clipPath id="clippath-23">
+      <path class="cls-75" d="M175.677,64.249c.149-.052.302-.121.458-.211.226.132.451.26.673.392-.156.09-.309.16-.458.212-.201-.118-.472-.274-.673-.392h0Z"></path>
+    </clipPath>
+    <clipPath id="clippath-24">
+      <polygon class="cls-53" points=".347 134.458 206.093 134.458 206.093 .347 .347 .347 .347 134.458 .347 134.458"></polygon>
+    </clipPath>
+    <clipPath id="clippath-25">
+      <path class="cls-65" d="M176.323,64.904l-.673-.392c0-.024.01-.125.028-.267l.673.392c-.017.139-.028.243-.028.267h0Z"></path>
+    </clipPath>
+    <clipPath id="clippath-26">
+      <polygon class="cls-53" points=".347 134.458 206.093 134.458 206.093 .347 .347 .347 .347 134.458 .347 134.458"></polygon>
+    </clipPath>
+    <clipPath id="clippath-27">
+      <polygon class="cls-53" points=".347 134.458 206.093 134.458 206.093 .347 .347 .347 .347 134.458 .347 134.458"></polygon>
+    </clipPath>
+    <clipPath id="clippath-28">
+      <path class="cls-46" d="M178.416,60.05c-.003-.218-.031-.416-.08-.593l.673.392c.049.177.076.374.08.593-.201-.118-.472-.274-.673-.392h0Z"></path>
+    </clipPath>
+    <clipPath id="clippath-29">
+      <polygon class="cls-53" points=".347 134.458 206.093 134.458 206.093 .347 .347 .347 .347 134.458 .347 134.458"></polygon>
+    </clipPath>
+    <clipPath id="clippath-30">
+      <path class="cls-71" d="M179.013,59.846l-.673-.392c.142-.111.253-.191.278-.208l.673.392c-.021.017-.135.097-.278.208h0Z"></path>
+    </clipPath>
+    <clipPath id="clippath-31">
+      <polygon class="cls-53" points=".347 134.458 206.093 134.458 206.093 .347 .347 .347 .347 134.458 .347 134.458"></polygon>
+    </clipPath>
+    <clipPath id="clippath-32">
+      <path class="cls-82" d="M184.932,55.026c-.208-1.706-.84-3.02-1.774-3.873.128.073.253.149.382.222l.174.101s.028.017.042.024c.01.007.028.017.042.024.01.007.024.021.038.021.934.853,1.566,2.167,1.774,3.873.049.402.076.825.076,1.269,0,.26-.007.523-.024.79-.139,2.281-.885,4.715-2.048,6.976l-.673-.392c1.163-2.261,1.909-4.694,2.048-6.976.017-.267.024-.531.024-.791,0-.444-.028-.867-.076-1.269h-.003Z"></path>
+    </clipPath>
+    <clipPath id="clippath-33">
+      <polygon class="cls-53" points=".347 134.458 206.093 134.458 206.093 .347 .347 .347 .347 134.458 .347 134.458"></polygon>
+    </clipPath>
+    <clipPath id="clippath-34">
+      <path class="cls-8" d="M175.639,63.5c.156-.035.323-.101.496-.198l.673.392c-.174.101-.34.166-.496.198-.226-.132-.451-.26-.673-.392h0Z"></path>
+    </clipPath>
+    <clipPath id="clippath-35">
+      <polygon class="cls-53" points=".347 134.458 206.093 134.458 206.093 .347 .347 .347 .347 134.458 .347 134.458"></polygon>
+    </clipPath>
+    <clipPath id="clippath-36">
+      <path class="cls-81" d="M175.605,63.507s.021-.003.031-.007c.226.132.451.26.673.392-.01,0-.021.003-.031.007-.226-.132-.451-.26-.673-.392h0Z"></path>
+    </clipPath>
+    <clipPath id="clippath-37">
+      <polygon class="cls-53" points=".347 134.458 206.093 134.458 206.093 .347 .347 .347 .347 134.458 .347 134.458"></polygon>
+    </clipPath>
+    <clipPath id="clippath-38">
+      <path class="cls-15" d="M175.605,63.507s.014.007.017.01c0,0,.007.003.01.007.017.01.035.021.052.031.028.017.052.031.08.049.17.1.344.198.514.298-.042.007-.08.014-.122.017-.226-.132-.451-.26-.673-.392.038,0,.08-.01.122-.017v-.004Z"></path>
+    </clipPath>
+    <clipPath id="clippath-39">
+      <polygon class="cls-53" points=".347 134.458 206.093 134.458 206.093 .347 .347 .347 .347 134.458 .347 134.458"></polygon>
+    </clipPath>
+    <clipPath id="clippath-40">
+      <path class="cls-20" d="M175.424,63.528c.021,0,.042,0,.062-.004.226.132.451.26.673.392-.021,0-.042,0-.062.003-.226-.132-.451-.26-.673-.392h0Z"></path>
+    </clipPath>
+    <clipPath id="clippath-41">
+      <polygon class="cls-53" points=".347 134.458 206.093 134.458 206.093 .347 .347 .347 .347 134.458 .347 134.458"></polygon>
+    </clipPath>
+    <clipPath id="clippath-42">
+      <path class="cls-43" d="M175.424,63.528s.024.014.035.021c.038.021.076.045.118.066l.149.087c.125.073.246.146.371.215h-.083l-.673-.392h.083v.004Z"></path>
+    </clipPath>
+    <clipPath id="clippath-43">
+      <polygon class="cls-53" points=".347 134.458 206.093 134.458 206.093 .347 .347 .347 .347 134.458 .347 134.458"></polygon>
+    </clipPath>
+    <clipPath id="clippath-44">
+      <path class="cls-54" d="M175.261,63.521c.028.003.052.007.08.007l.673.392c-.028,0-.056-.003-.08-.007-.226-.132-.451-.26-.673-.392h0Z"></path>
+    </clipPath>
+    <clipPath id="clippath-45">
+      <polygon class="cls-53" points=".347 134.458 206.093 134.458 206.093 .347 .347 .347 .347 134.458 .347 134.458"></polygon>
+    </clipPath>
+    <clipPath id="clippath-46">
+      <path class="cls-47" d="M175.261,63.521s.021.014.031.017c.035.021.066.038.101.059.045.024.087.052.132.076.135.08.274.159.41.239-.017,0-.035-.003-.049-.007-.226-.132-.451-.26-.673-.392.017,0,.031.007.049.007h0Z"></path>
+    </clipPath>
+    <clipPath id="clippath-47">
+      <polygon class="cls-53" points=".347 134.458 206.093 134.458 206.093 .347 .347 .347 .347 134.458 .347 134.458"></polygon>
+    </clipPath>
+    <clipPath id="clippath-48">
+      <path class="cls-36" d="M175.087,63.476c.038.014.08.024.121.035.226.132.451.26.673.392-.042-.007-.083-.021-.121-.035-.226-.132-.451-.26-.673-.392h0Z"></path>
+    </clipPath>
+    <clipPath id="clippath-49">
+      <polygon class="cls-53" points=".347 134.458 206.093 134.458 206.093 .347 .347 .347 .347 134.458 .347 134.458"></polygon>
+    </clipPath>
+    <clipPath id="clippath-50">
+      <path class="cls-12" d="M175.087,63.476h0c.007,0,.01.007.017.01.007,0,.01.007.017.01.212.125.427.246.639.371h-.007c-.226-.132-.451-.26-.673-.392h.007Z"></path>
+    </clipPath>
+    <clipPath id="clippath-51">
+      <polygon class="cls-53" points=".347 134.458 206.093 134.458 206.093 .347 .347 .347 .347 134.458 .347 134.458"></polygon>
+    </clipPath>
+    <clipPath id="clippath-52">
+      <path class="cls-70" d="M183.016,51.032c-.187-.156-.385-.298-.597-.42l.673.392c.208.121.41.263.597.42.049.038.094.08.139.121-.226-.132-.451-.26-.673-.392-.045-.042-.09-.083-.139-.121h0Z"></path>
+    </clipPath>
+    <clipPath id="clippath-53">
+      <polygon class="cls-53" points=".347 134.458 206.093 134.458 206.093 .347 .347 .347 .347 134.458 .347 134.458"></polygon>
+    </clipPath>
+    <clipPath id="clippath-54">
+      <path class="cls-4" d="M177.778,60.459c0-.516-.184-.881-.479-1.054l.673.392c.295.173.476.537.479,1.054,0,1.044-.732,2.316-1.645,2.843l-.673-.392c.909-.524,1.649-1.796,1.645-2.843h0Z"></path>
+    </clipPath>
+    <clipPath id="clippath-55">
+      <polygon class="cls-53" points=".347 134.458 206.093 134.458 206.093 .347 .347 .347 .347 134.458 .347 134.458"></polygon>
+    </clipPath>
+    <clipPath id="clippath-56">
+      <path class="cls-37" d="M177.889,58.719c-.042-.035-.09-.066-.135-.094l.673.392c.049.028.094.059.135.094-.201-.118-.483-.26-.673-.392h0Z"></path>
+    </clipPath>
+    <clipPath id="clippath-57">
+      <polygon class="cls-53" points=".347 134.458 206.093 134.458 206.093 .347 .347 .347 .347 134.458 .347 134.458"></polygon>
+    </clipPath>
+    <clipPath id="clippath-58">
+      <path class="cls-39" d="M174.508,64.197c.101.059.208.101.326.125l.673.392c-.118-.024-.226-.069-.326-.125-.201-.118-.472-.274-.673-.392h0Z"></path>
+    </clipPath>
+    <clipPath id="clippath-59">
+      <polygon class="cls-53" points=".347 134.458 206.093 134.458 206.093 .347 .347 .347 .347 134.458 .347 134.458"></polygon>
+    </clipPath>
+    <clipPath id="clippath-60">
+      <polygon class="cls-53" points=".347 134.458 206.093 134.458 206.093 .347 .347 .347 .347 134.458 .347 134.458"></polygon>
+    </clipPath>
+    <clipPath id="clippath-61">
+      <path class="cls-41" d="M170.616,72.563c1.232.416,2.732.315,4.367-.381.226.132.451.26.673.392-1.638.697-3.135.797-4.367.381-.271-.094-.531-.211-.778-.354l-.673-.392c.246.142.503.26.778.354h0Z"></path>
+    </clipPath>
+    <clipPath id="clippath-62">
+      <polygon class="cls-53" points=".347 134.458 206.093 134.458 206.093 .347 .347 .347 .347 134.458 .347 134.458"></polygon>
+    </clipPath>
+    <clipPath id="clippath-63">
+      <path class="cls-52" d="M174.959,63.417c.038.024.08.042.125.059.226.132.451.26.673.392-.042-.017-.083-.035-.125-.059l-.673-.392h0Z"></path>
+    </clipPath>
+    <clipPath id="clippath-64">
+      <polygon class="cls-53" points=".347 134.458 206.093 134.458 206.093 .347 .347 .347 .347 134.458 .347 134.458"></polygon>
+    </clipPath>
+    <clipPath id="clippath-65">
+      <path class="cls-33" d="M174.036,64.852c.028-.045.243-.36.469-.659l.673.392c-.222.298-.437.614-.465.659l-.673-.392h-.003Z"></path>
+    </clipPath>
+    <clipPath id="clippath-66">
+      <polygon class="cls-53" points=".347 134.458 206.093 134.458 206.093 .347 .347 .347 .347 134.458 .347 134.458"></polygon>
+    </clipPath>
+    <clipPath id="clippath-67">
+      <path class="cls-85" d="M177.299,59.405l.673.392c-.299-.173-.715-.149-1.173.114l-.673-.392c.458-.263.875-.288,1.173-.114h0Z"></path>
+    </clipPath>
+    <clipPath id="clippath-68">
+      <polygon class="cls-53" points=".347 134.458 206.093 134.458 206.093 .347 .347 .347 .347 134.458 .347 134.458"></polygon>
+    </clipPath>
+    <clipPath id="clippath-69">
+      <path class="cls-5" d="M175.636,63.808l-.673-.392c-.295-.173-.479-.537-.482-1.057,0-1.044.732-2.316,1.645-2.843l.673.392c-.909.523-1.649,1.796-1.645,2.843,0,.52.184.884.483,1.057h0Z"></path>
+    </clipPath>
+    <clipPath id="clippath-70">
+      <polygon class="cls-53" points=".347 134.458 206.093 134.458 206.093 .347 .347 .347 .347 134.458 .347 134.458"></polygon>
+    </clipPath>
+    <clipPath id="clippath-71">
+      <path class="cls-34" d="M175.181,64.589l-.673-.392h-.003c-.41-.239-.66-.745-.663-1.463v-.035c0-.229.028-.465.076-.7.087-.43.246-.863.462-1.276.108-.208.229-.409.361-.6.267-.385.58-.731.916-1.009.149-.121.305-.229.465-.322.056-.031.111-.062.167-.087.472-.232.903-.281,1.253-.166.073.024.146.055.212.094l.673.392c-.066-.038-.139-.069-.212-.094-.351-.114-.781-.066-1.253.166-.056.028-.111.056-.167.087-.16.09-.312.201-.465.323-.34.277-.653.624-.916,1.009-.132.191-.253.395-.361.6-.215.412-.375.849-.462,1.276-.049.239-.076.475-.076.7v.035c0,.718.253,1.224.663,1.463h.003Z"></path>
+    </clipPath>
+    <clipPath id="clippath-72">
+      <polygon class="cls-53" points=".347 134.458 206.093 134.458 206.093 .347 .347 .347 .347 134.458 .347 134.458"></polygon>
+    </clipPath>
+    <clipPath id="clippath-73">
+      <polygon class="cls-53" points=".347 134.458 206.093 134.458 206.093 .347 .347 .347 .347 134.458 .347 134.458"></polygon>
+    </clipPath>
+    <clipPath id="clippath-74">
+      <path class="cls-32" d="M178.212,58.923l-.673-.392c.125-.284.246-.537.264-.579l.673.392c-.017.038-.142.295-.264.579h0Z"></path>
+    </clipPath>
+    <clipPath id="clippath-75">
+      <polygon class="cls-53" points=".347 134.458 206.093 134.458 206.093 .347 .347 .347 .347 134.458 .347 134.458"></polygon>
+    </clipPath>
+    <clipPath id="clippath-76">
+      <path class="cls-87" d="M169.842,72.213c-.17-.097-.33-.208-.486-.326l.673.392c.156.121.316.229.486.326-.201-.118-.472-.274-.673-.392h0Z"></path>
+    </clipPath>
+    <clipPath id="clippath-77">
+      <polygon class="cls-53" points=".347 134.458 206.093 134.458 206.093 .347 .347 .347 .347 134.458 .347 134.458"></polygon>
+    </clipPath>
+    <clipPath id="clippath-78">
+      <polygon class="cls-53" points=".347 134.458 206.093 134.458 206.093 .347 .347 .347 .347 134.458 .347 134.458"></polygon>
+    </clipPath>
+    <clipPath id="clippath-79">
+      <path class="cls-26" d="M181.766,50.304c.226.083.444.187.653.308l.673.392c-.208-.121-.424-.222-.653-.309-.201-.118-.472-.274-.673-.392h0Z"></path>
+    </clipPath>
+    <clipPath id="clippath-80">
+      <polygon class="cls-53" points=".347 134.458 206.093 134.458 206.093 .347 .347 .347 .347 134.458 .347 134.458"></polygon>
+    </clipPath>
+    <clipPath id="clippath-81">
+      <polygon class="cls-53" points=".347 134.458 206.093 134.458 206.093 .347 .347 .347 .347 134.458 .347 134.458"></polygon>
+    </clipPath>
+    <clipPath id="clippath-82">
+      <path class="cls-23" d="M177.802,57.953c1.319-2.548,2.642-5.1,3.961-7.648l.673.392c-1.319,2.548-2.642,5.1-3.961,7.648-.201-.118-.472-.274-.673-.392h0Z"></path>
+    </clipPath>
+    <clipPath id="clippath-83">
+      <polygon class="cls-53" points=".347 134.458 206.093 134.458 206.093 .347 .347 .347 .347 134.458 .347 134.458"></polygon>
+    </clipPath>
+    <clipPath id="clippath-84">
+      <polygon class="cls-53" points=".347 134.458 206.093 134.458 206.093 .347 .347 .347 .347 134.458 .347 134.458"></polygon>
+    </clipPath>
+    <clipPath id="clippath-85">
+      <path class="cls-62" d="M173.685,62.089c.021-.007.111-.045.229-.094l.673.392c-.121.045-.212.083-.229.094-.201-.118-.472-.274-.673-.392h0Z"></path>
+    </clipPath>
+    <clipPath id="clippath-86">
+      <polygon class="cls-53" points=".347 134.458 206.093 134.458 206.093 .347 .347 .347 .347 134.458 .347 134.458"></polygon>
+    </clipPath>
+    <clipPath id="clippath-87">
+      <polygon class="cls-53" points=".347 134.458 206.093 134.458 206.093 .347 .347 .347 .347 134.458 .347 134.458"></polygon>
+    </clipPath>
+    <clipPath id="clippath-88">
+      <path class="cls-29" d="M176.788,50.862h0l.673.392h0c-.226-.132-.451-.26-.673-.392h0Z"></path>
+    </clipPath>
+    <clipPath id="clippath-89">
+      <polygon class="cls-53" points=".347 134.458 206.093 134.458 206.093 .347 .347 .347 .347 134.458 .347 134.458"></polygon>
+    </clipPath>
+    <clipPath id="clippath-90">
+      <path class="cls-51" d="M176.101,51.23c.233-.135.462-.257.691-.368.226.132.451.26.673.392-.229.111-.458.232-.691.367-.201-.118-.472-.274-.673-.392h0Z"></path>
+    </clipPath>
+    <clipPath id="clippath-91">
+      <polygon class="cls-53" points=".347 134.458 206.093 134.458 206.093 .347 .347 .347 .347 134.458 .347 134.458"></polygon>
+    </clipPath>
+    <clipPath id="clippath-92">
+      <path class="cls-28" d="M167.954,67.685l-.673-.392c-.017-.25-.028-.503-.028-.766,0-.444.021-.898.069-1.356l.673.392c-.049.458-.069.912-.069,1.356,0,.264.01.52.028.766h0Z"></path>
+    </clipPath>
+    <clipPath id="clippath-93">
+      <polygon class="cls-53" points=".347 134.458 206.093 134.458 206.093 .347 .347 .347 .347 134.458 .347 134.458"></polygon>
+    </clipPath>
+    <clipPath id="clippath-94">
+      <polygon class="cls-53" points=".347 134.458 206.093 134.458 206.093 .347 .347 .347 .347 134.458 .347 134.458"></polygon>
+    </clipPath>
+    <clipPath id="clippath-95">
+      <path class="cls-72" d="M167.996,65.563l-.673-.392c2.121-1.026,4.245-2.056,6.366-3.082l.673.392c-2.121,1.026-4.245,2.056-6.366,3.082h0Z"></path>
+    </clipPath>
+    <clipPath id="clippath-96">
+      <polygon class="cls-53" points=".347 134.458 206.093 134.458 206.093 .347 .347 .347 .347 134.458 .347 134.458"></polygon>
+    </clipPath>
+    <clipPath id="clippath-97">
+      <polygon class="cls-53" points=".347 134.458 206.093 134.458 206.093 .347 .347 .347 .347 134.458 .347 134.458"></polygon>
+    </clipPath>
+    <clipPath id="clippath-98">
+      <path class="cls-17" d="M175.605,52.384l-.673-.392c.385-.281.774-.534,1.17-.763l.673.392c-.396.229-.788.485-1.17.763h0Z"></path>
+    </clipPath>
+    <clipPath id="clippath-99">
+      <polygon class="cls-53" points=".347 134.458 206.093 134.458 206.093 .347 .347 .347 .347 134.458 .347 134.458"></polygon>
+    </clipPath>
+    <clipPath id="clippath-100">
+      <path class="cls-66" d="M169.898,59.346l-.673-.392c.375-.745.795-1.474,1.253-2.17l.673.392c-.458.697-.878,1.425-1.253,2.17h0Z"></path>
+    </clipPath>
+    <clipPath id="clippath-101">
+      <polygon class="cls-53" points=".347 134.458 206.093 134.458 206.093 .347 .347 .347 .347 134.458 .347 134.458"></polygon>
+    </clipPath>
+    <clipPath id="clippath-102">
+      <polygon class="cls-53" points=".347 134.458 206.093 134.458 206.093 .347 .347 .347 .347 134.458 .347 134.458"></polygon>
+    </clipPath>
+    <clipPath id="clippath-103">
+      <path class="cls-44" d="M85.553,121.252c.455-.683.875-1.394,1.25-2.122l.673.392c-.375.728-.795,1.442-1.25,2.122-1.354,2.028-3.037,3.796-4.877,5.01-.215.142-.43.274-.649.402-.396.229-.788.423-1.173.586-.226-.132-.451-.26-.673-.392.385-.163.774-.357,1.173-.586.219-.125.434-.26.649-.402,1.84-1.214,3.523-2.982,4.877-5.01h0Z"></path>
+    </clipPath>
+    <clipPath id="clippath-104">
+      <polygon class="cls-53" points=".347 134.458 206.093 134.458 206.093 .347 .347 .347 .347 134.458 .347 134.458"></polygon>
+    </clipPath>
+    <clipPath id="clippath-105">
+      <polygon class="cls-53" points=".347 134.458 206.093 134.458 206.093 .347 .347 .347 .347 134.458 .347 134.458"></polygon>
+    </clipPath>
+    <clipPath id="clippath-106">
+      <path class="cls-25" d="M85.553,121.252c-1.298-.995-2.597-1.994-3.891-2.989l.673.392c1.298.995,2.597,1.994,3.891,2.989-.201-.118-.472-.274-.673-.392h0Z"></path>
+    </clipPath>
+    <clipPath id="clippath-107">
+      <polygon class="cls-53" points=".347 134.458 206.093 134.458 206.093 .347 .347 .347 .347 134.458 .347 134.458"></polygon>
+    </clipPath>
+    <clipPath id="clippath-108">
+      <polygon class="cls-53" points=".347 134.458 206.093 134.458 206.093 .347 .347 .347 .347 134.458 .347 134.458"></polygon>
+    </clipPath>
+    <clipPath id="clippath-109">
+      <path class="cls-58" d="M82.307,117.771l-.673-.392c.222.038.441.111.469.121l.673.392c-.028-.01-.246-.08-.469-.121h0Z"></path>
+    </clipPath>
+    <clipPath id="clippath-110">
+      <polygon class="cls-53" points=".347 134.458 206.093 134.458 206.093 .347 .347 .347 .347 134.458 .347 134.458"></polygon>
+    </clipPath>
+    <clipPath id="clippath-111">
+      <polygon class="cls-53" points=".347 134.458 206.093 134.458 206.093 .347 .347 .347 .347 134.458 .347 134.458"></polygon>
+    </clipPath>
+    <clipPath id="clippath-112">
+      <path class="cls-55" d="M82.335,118.655l-.673-.392c-.024-.021-.205-.191-.354-.374l.673.392c.149.187.333.354.354.374h0Z"></path>
+    </clipPath>
+    <clipPath id="clippath-113">
+      <polygon class="cls-53" points=".347 134.458 206.093 134.458 206.093 .347 .347 .347 .347 134.458 .347 134.458"></polygon>
+    </clipPath>
+    <clipPath id="clippath-114">
+      <path class="cls-48" d="M81.304,117.885c.118-.163.229-.333.326-.506l.673.392c-.101.173-.208.343-.326.506l-.673-.392h0Z"></path>
+    </clipPath>
+    <clipPath id="clippath-115">
+      <polygon class="cls-53" points=".347 134.458 206.093 134.458 206.093 .347 .347 .347 .347 134.458 .347 134.458"></polygon>
+    </clipPath>
+    <clipPath id="clippath-116">
+      <path class="cls-3" d="M80.113,119.036h0l.673.392h0c-.226-.132-.451-.26-.673-.392h0Z"></path>
+    </clipPath>
+    <clipPath id="clippath-117">
+      <polygon class="cls-53" points=".347 134.458 206.093 134.458 206.093 .347 .347 .347 .347 134.458 .347 134.458"></polygon>
+    </clipPath>
+    <clipPath id="clippath-118">
+      <path class="cls-14" d="M80.002,119.102c.038-.021.076-.045.111-.066.226.132.451.26.673.392-.038.024-.073.045-.111.066-.226-.132-.448-.26-.673-.392.226.132.448.26.673.392h0c-.226-.132-.451-.26-.673-.392h0Z"></path>
+    </clipPath>
+    <clipPath id="clippath-119">
+      <polygon class="cls-53" points=".347 134.458 206.093 134.458 206.093 .347 .347 .347 .347 134.458 .347 134.458"></polygon>
+    </clipPath>
+    <clipPath id="clippath-120">
+      <polygon class="cls-53" points=".347 134.458 206.093 134.458 206.093 .347 .347 .347 .347 134.458 .347 134.458"></polygon>
+    </clipPath>
+    <clipPath id="clippath-121">
+      <path class="cls-9" d="M83.154,114.706l-.673-.392c2.104-1.408,4.211-2.815,6.314-4.219l.673.392c-2.104,1.408-4.211,2.815-6.314,4.219h0Z"></path>
+    </clipPath>
+    <clipPath id="clippath-122">
+      <polygon class="cls-53" points=".347 134.458 206.093 134.458 206.093 .347 .347 .347 .347 134.458 .347 134.458"></polygon>
+    </clipPath>
+    <clipPath id="clippath-123">
+      <path class="cls-69" d="M79.544,119.317c.149-.052.302-.121.458-.212.226.132.451.26.673.392-.156.09-.309.159-.458.211-.201-.118-.472-.274-.673-.392h0Z"></path>
+    </clipPath>
+    <clipPath id="clippath-124">
+      <polygon class="cls-53" points=".347 134.458 206.093 134.458 206.093 .347 .347 .347 .347 134.458 .347 134.458"></polygon>
+    </clipPath>
+    <clipPath id="clippath-125">
+      <path class="cls-68" d="M80.19,119.972l-.673-.392c0-.024.01-.125.028-.267l.673.392c-.017.139-.028.243-.028.267h0Z"></path>
+    </clipPath>
+    <clipPath id="clippath-126">
+      <polygon class="cls-53" points=".347 134.458 206.093 134.458 206.093 .347 .347 .347 .347 134.458 .347 134.458"></polygon>
+    </clipPath>
+    <clipPath id="clippath-127">
+      <polygon class="cls-53" points=".347 134.458 206.093 134.458 206.093 .347 .347 .347 .347 134.458 .347 134.458"></polygon>
+    </clipPath>
+    <clipPath id="clippath-128">
+      <path class="cls-38" d="M82.283,115.115c-.003-.218-.031-.416-.08-.593l.673.392c.049.177.076.374.08.593-.201-.118-.472-.274-.673-.392h0Z"></path>
+    </clipPath>
+    <clipPath id="clippath-129">
+      <polygon class="cls-53" points=".347 134.458 206.093 134.458 206.093 .347 .347 .347 .347 134.458 .347 134.458"></polygon>
+    </clipPath>
+    <clipPath id="clippath-130">
+      <path class="cls-80" d="M82.88,114.914l-.673-.392c.142-.111.253-.191.278-.208l.673.392c-.021.017-.135.097-.278.208h0Z"></path>
+    </clipPath>
+    <clipPath id="clippath-131">
+      <polygon class="cls-53" points=".347 134.458 206.093 134.458 206.093 .347 .347 .347 .347 134.458 .347 134.458"></polygon>
+    </clipPath>
+    <clipPath id="clippath-132">
+      <path class="cls-21" d="M88.795,110.094c-.208-1.706-.84-3.02-1.774-3.873.128.073.253.149.382.222l.174.101s.028.017.042.024c.01.007.028.017.042.024.01.007.024.021.038.021.934.853,1.566,2.167,1.774,3.873.049.402.076.825.076,1.269,0,.26-.007.523-.024.79-.139,2.281-.885,4.715-2.048,6.976l-.673-.392c1.163-2.261,1.909-4.694,2.048-6.976.017-.267.024-.53.024-.79,0-.444-.028-.867-.076-1.269h-.003Z"></path>
+    </clipPath>
+    <clipPath id="clippath-133">
+      <polygon class="cls-53" points=".347 134.458 206.093 134.458 206.093 .347 .347 .347 .347 134.458 .347 134.458"></polygon>
+    </clipPath>
+    <clipPath id="clippath-134">
+      <path class="cls-50" d="M79.506,118.568c.156-.035.323-.101.496-.198l.673.392c-.174.101-.34.166-.496.198-.226-.132-.451-.26-.673-.392h0Z"></path>
+    </clipPath>
+    <clipPath id="clippath-135">
+      <polygon class="cls-53" points=".347 134.458 206.093 134.458 206.093 .347 .347 .347 .347 134.458 .347 134.458"></polygon>
+    </clipPath>
+    <clipPath id="clippath-136">
+      <path class="cls-7" d="M79.471,118.575s.021-.003.031-.007c.226.132.451.26.673.392-.01,0-.021.003-.031.007-.226-.132-.451-.26-.673-.392h0Z"></path>
+    </clipPath>
+    <clipPath id="clippath-137">
+      <polygon class="cls-53" points=".347 134.458 206.093 134.458 206.093 .347 .347 .347 .347 134.458 .347 134.458"></polygon>
+    </clipPath>
+    <clipPath id="clippath-138">
+      <path class="cls-89" d="M79.471,118.575s.014.007.017.01c0,0,.007.003.01.007.017.01.035.021.052.031.028.017.052.031.08.049l.514.298c-.042.007-.08.014-.121.017-.226-.132-.451-.26-.673-.392.038,0,.08-.01.121-.017v-.003Z"></path>
+    </clipPath>
+    <clipPath id="clippath-139">
+      <polygon class="cls-53" points=".347 134.458 206.093 134.458 206.093 .347 .347 .347 .347 134.458 .347 134.458"></polygon>
+    </clipPath>
+    <clipPath id="clippath-140">
+      <path class="cls-60" d="M79.291,118.596c.021,0,.042,0,.062-.003.226.132.451.26.673.392-.021,0-.042,0-.062.003-.226-.132-.451-.26-.673-.392h0Z"></path>
+    </clipPath>
+    <clipPath id="clippath-141">
+      <polygon class="cls-53" points=".347 134.458 206.093 134.458 206.093 .347 .347 .347 .347 134.458 .347 134.458"></polygon>
+    </clipPath>
+    <clipPath id="clippath-142">
+      <path class="cls-40" d="M79.291,118.596s.024.014.035.021c.038.024.076.045.118.066l.149.087c.125.073.246.146.371.215h-.083l-.673-.392h.083v.003Z"></path>
+    </clipPath>
+    <clipPath id="clippath-143">
+      <polygon class="cls-53" points=".347 134.458 206.093 134.458 206.093 .347 .347 .347 .347 134.458 .347 134.458"></polygon>
+    </clipPath>
+    <clipPath id="clippath-144">
+      <path class="cls-49" d="M79.124,118.585c.028.003.052.007.08.007l.673.392c-.028,0-.056-.003-.08-.007-.226-.132-.451-.26-.673-.392h0Z"></path>
+    </clipPath>
+    <clipPath id="clippath-145">
+      <polygon class="cls-53" points=".347 134.458 206.093 134.458 206.093 .347 .347 .347 .347 134.458 .347 134.458"></polygon>
+    </clipPath>
+    <clipPath id="clippath-146">
+      <path class="cls-42" d="M79.124,118.585s.021.014.031.017c.035.021.066.038.101.059.045.024.087.052.132.076l.41.239s-.035-.003-.049-.007c-.226-.132-.451-.26-.673-.392.017,0,.031.007.049.007h0Z"></path>
+    </clipPath>
+    <clipPath id="clippath-147">
+      <polygon class="cls-53" points=".347 134.458 206.093 134.458 206.093 .347 .347 .347 .347 134.458 .347 134.458"></polygon>
+    </clipPath>
+    <clipPath id="clippath-148">
+      <path class="cls-18" d="M78.954,118.544c.038.014.08.024.121.035.226.132.451.26.673.392-.042-.007-.083-.021-.121-.035-.226-.132-.451-.26-.673-.392h0Z"></path>
+    </clipPath>
+    <clipPath id="clippath-149">
+      <polygon class="cls-53" points=".347 134.458 206.093 134.458 206.093 .347 .347 .347 .347 134.458 .347 134.458"></polygon>
+    </clipPath>
+    <clipPath id="clippath-150">
+      <path class="cls-79" d="M78.954,118.544h0c.007,0,.01.007.017.01.007,0,.01.007.017.01.212.125.427.246.639.371h-.007c-.226-.132-.451-.26-.673-.392h.007Z"></path>
+    </clipPath>
+    <clipPath id="clippath-151">
+      <polygon class="cls-53" points=".347 134.458 206.093 134.458 206.093 .347 .347 .347 .347 134.458 .347 134.458"></polygon>
+    </clipPath>
+    <clipPath id="clippath-152">
+      <path class="cls-22" d="M86.882,106.1c-.187-.156-.385-.298-.597-.42l.673.392c.208.121.41.263.597.42.049.038.094.08.139.121-.226-.132-.451-.26-.673-.392-.045-.042-.09-.083-.139-.121h0Z"></path>
+    </clipPath>
+    <clipPath id="clippath-153">
+      <polygon class="cls-53" points=".347 134.458 206.093 134.458 206.093 .347 .347 .347 .347 134.458 .347 134.458"></polygon>
+    </clipPath>
+    <clipPath id="clippath-154">
+      <path class="cls-10" d="M81.644,115.527c0-.517-.184-.881-.479-1.054l.673.392c.295.173.476.537.479,1.054,0,1.044-.732,2.316-1.645,2.843l-.673-.392c.909-.524,1.649-1.796,1.645-2.843h0Z"></path>
+    </clipPath>
+    <clipPath id="clippath-155">
+      <polygon class="cls-53" points=".347 134.458 206.093 134.458 206.093 .347 .347 .347 .347 134.458 .347 134.458"></polygon>
+    </clipPath>
+    <clipPath id="clippath-156">
+      <path class="cls-64" d="M81.752,113.787c-.042-.035-.09-.066-.135-.094l.673.392c.049.028.094.059.135.094-.201-.118-.483-.26-.673-.392h0Z"></path>
+    </clipPath>
+    <clipPath id="clippath-157">
+      <polygon class="cls-53" points=".347 134.458 206.093 134.458 206.093 .347 .347 .347 .347 134.458 .347 134.458"></polygon>
+    </clipPath>
+    <clipPath id="clippath-158">
+      <path class="cls-16" d="M78.371,119.261c.101.059.208.101.326.125l.673.392c-.118-.024-.226-.069-.326-.125l-.673-.392h0Z"></path>
+    </clipPath>
+    <clipPath id="clippath-159">
+      <polygon class="cls-53" points=".347 134.458 206.093 134.458 206.093 .347 .347 .347 .347 134.458 .347 134.458"></polygon>
+    </clipPath>
+    <clipPath id="clippath-160">
+      <polygon class="cls-53" points=".347 134.458 206.093 134.458 206.093 .347 .347 .347 .347 134.458 .347 134.458"></polygon>
+    </clipPath>
+    <clipPath id="clippath-161">
+      <path class="cls-11" d="M74.483,127.628c1.232.416,2.732.315,4.367-.381.226.132.451.26.673.392-1.638.697-3.135.797-4.367.381-.271-.094-.531-.211-.778-.354l-.673-.392c.246.142.503.26.778.354h0Z"></path>
+    </clipPath>
+    <clipPath id="clippath-162">
+      <polygon class="cls-53" points=".347 134.458 206.093 134.458 206.093 .347 .347 .347 .347 134.458 .347 134.458"></polygon>
+    </clipPath>
+    <clipPath id="clippath-163">
+      <path class="cls-83" d="M78.822,118.481c.038.024.08.042.125.059.226.132.451.26.673.392-.042-.017-.083-.035-.125-.059l-.673-.392h0Z"></path>
+    </clipPath>
+    <clipPath id="clippath-164">
+      <polygon class="cls-53" points=".347 134.458 206.093 134.458 206.093 .347 .347 .347 .347 134.458 .347 134.458"></polygon>
+    </clipPath>
+    <clipPath id="clippath-165">
+      <path class="cls-63" d="M77.902,119.92c.028-.045.243-.361.469-.659l.673.392c-.222.298-.437.614-.465.659l-.673-.392h-.003Z"></path>
+    </clipPath>
+    <clipPath id="clippath-166">
+      <polygon class="cls-53" points=".347 134.458 206.093 134.458 206.093 .347 .347 .347 .347 134.458 .347 134.458"></polygon>
+    </clipPath>
+    <clipPath id="clippath-167">
+      <path class="cls-88" d="M81.162,114.47l.673.392c-.299-.173-.715-.149-1.173.114l-.673-.392c.458-.264.875-.288,1.173-.114h0Z"></path>
+    </clipPath>
+    <clipPath id="clippath-168">
+      <polygon class="cls-53" points=".347 134.458 206.093 134.458 206.093 .347 .347 .347 .347 134.458 .347 134.458"></polygon>
+    </clipPath>
+    <clipPath id="clippath-169">
+      <path class="cls-57" d="M79.502,118.877l-.673-.392c-.295-.173-.479-.537-.483-1.057,0-1.044.732-2.316,1.645-2.843l.673.392c-.909.523-1.649,1.796-1.645,2.843,0,.52.184.884.483,1.057h0Z"></path>
+    </clipPath>
+    <clipPath id="clippath-170">
+      <polygon class="cls-53" points=".347 134.458 206.093 134.458 206.093 .347 .347 .347 .347 134.458 .347 134.458"></polygon>
+    </clipPath>
+    <clipPath id="clippath-171">
+      <path class="cls-35" d="M79.048,119.653l-.673-.392h-.003c-.41-.239-.66-.745-.663-1.463v-.035c0-.229.028-.465.076-.7.087-.43.246-.863.462-1.276.108-.208.229-.409.361-.6.267-.385.58-.732.916-1.009.149-.121.305-.229.465-.322.056-.031.111-.062.167-.087.472-.232.903-.281,1.253-.166.073.024.146.055.212.094l.673.392c-.066-.038-.139-.069-.212-.094-.351-.114-.781-.066-1.253.166-.056.028-.111.055-.167.087-.16.09-.312.201-.465.322-.34.277-.653.624-.916,1.009-.132.191-.253.395-.361.6-.215.413-.375.849-.462,1.276-.049.239-.076.475-.076.7v.035c0,.718.253,1.224.663,1.463h.003Z"></path>
+    </clipPath>
+    <clipPath id="clippath-172">
+      <polygon class="cls-53" points=".347 134.458 206.093 134.458 206.093 .347 .347 .347 .347 134.458 .347 134.458"></polygon>
+    </clipPath>
+    <clipPath id="clippath-173">
+      <polygon class="cls-53" points=".347 134.458 206.093 134.458 206.093 .347 .347 .347 .347 134.458 .347 134.458"></polygon>
+    </clipPath>
+    <clipPath id="clippath-174">
+      <path class="cls-19" d="M82.078,113.988l-.673-.392c.125-.284.246-.537.264-.579l.673.392c-.017.038-.142.295-.264.579h0Z"></path>
+    </clipPath>
+    <clipPath id="clippath-175">
+      <polygon class="cls-53" points=".347 134.458 206.093 134.458 206.093 .347 .347 .347 .347 134.458 .347 134.458"></polygon>
+    </clipPath>
+    <clipPath id="clippath-176">
+      <path class="cls-56" d="M73.709,127.281c-.17-.097-.33-.208-.486-.326l.673.392c.156.121.316.229.486.326-.201-.118-.472-.274-.673-.392h0Z"></path>
+    </clipPath>
+    <clipPath id="clippath-177">
+      <polygon class="cls-53" points=".347 134.458 206.093 134.458 206.093 .347 .347 .347 .347 134.458 .347 134.458"></polygon>
+    </clipPath>
+    <clipPath id="clippath-178">
+      <polygon class="cls-53" points=".347 134.458 206.093 134.458 206.093 .347 .347 .347 .347 134.458 .347 134.458"></polygon>
+    </clipPath>
+    <clipPath id="clippath-179">
+      <path class="cls-6" d="M85.629,105.372c.226.083.444.187.653.309l.673.392c-.208-.121-.424-.222-.653-.309-.201-.118-.472-.274-.673-.392h0Z"></path>
+    </clipPath>
+    <clipPath id="clippath-180">
+      <polygon class="cls-53" points=".347 134.458 206.093 134.458 206.093 .347 .347 .347 .347 134.458 .347 134.458"></polygon>
+    </clipPath>
+    <clipPath id="clippath-181">
+      <polygon class="cls-53" points=".347 134.458 206.093 134.458 206.093 .347 .347 .347 .347 134.458 .347 134.458"></polygon>
+    </clipPath>
+    <clipPath id="clippath-182">
+      <path class="cls-31" d="M81.668,113.021c1.319-2.548,2.642-5.1,3.961-7.648l.673.392c-1.319,2.548-2.642,5.1-3.961,7.648l-.673-.392h0Z"></path>
+    </clipPath>
+    <clipPath id="clippath-183">
+      <polygon class="cls-53" points=".347 134.458 206.093 134.458 206.093 .347 .347 .347 .347 134.458 .347 134.458"></polygon>
+    </clipPath>
+    <clipPath id="clippath-184">
+      <polygon class="cls-53" points=".347 134.458 206.093 134.458 206.093 .347 .347 .347 .347 134.458 .347 134.458"></polygon>
+    </clipPath>
+    <clipPath id="clippath-185">
+      <path class="cls-77" d="M77.552,117.153c.021-.007.111-.045.229-.094l.673.392c-.121.045-.212.083-.229.094l-.673-.392h0Z"></path>
+    </clipPath>
+    <clipPath id="clippath-186">
+      <polygon class="cls-53" points=".347 134.458 206.093 134.458 206.093 .347 .347 .347 .347 134.458 .347 134.458"></polygon>
+    </clipPath>
+    <clipPath id="clippath-187">
+      <polygon class="cls-53" points=".347 134.458 206.093 134.458 206.093 .347 .347 .347 .347 134.458 .347 134.458"></polygon>
+    </clipPath>
+    <clipPath id="clippath-188">
+      <path class="cls-2" d="M80.655,105.93h0l.673.392h0c-.226-.132-.451-.26-.673-.392h0Z"></path>
+    </clipPath>
+    <clipPath id="clippath-189">
+      <polygon class="cls-53" points=".347 134.458 206.093 134.458 206.093 .347 .347 .347 .347 134.458 .347 134.458"></polygon>
+    </clipPath>
+    <clipPath id="clippath-190">
+      <path class="cls-76" d="M79.964,106.294c.233-.135.462-.257.691-.368.226.132.451.26.673.392-.229.111-.458.232-.691.367-.201-.118-.472-.274-.673-.392h0Z"></path>
+    </clipPath>
+    <clipPath id="clippath-191">
+      <polygon class="cls-53" points=".347 134.458 206.093 134.458 206.093 .347 .347 .347 .347 134.458 .347 134.458"></polygon>
+    </clipPath>
+    <clipPath id="clippath-192">
+      <path class="cls-45" d="M71.82,122.753l-.673-.392c-.017-.25-.028-.503-.028-.766,0-.444.021-.898.069-1.356l.673.392c-.049.458-.069.912-.069,1.356,0,.263.01.52.028.766h0Z"></path>
+    </clipPath>
+    <clipPath id="clippath-193">
+      <polygon class="cls-53" points=".347 134.458 206.093 134.458 206.093 .347 .347 .347 .347 134.458 .347 134.458"></polygon>
+    </clipPath>
+    <clipPath id="clippath-194">
+      <polygon class="cls-53" points=".347 134.458 206.093 134.458 206.093 .347 .347 .347 .347 134.458 .347 134.458"></polygon>
+    </clipPath>
+    <clipPath id="clippath-195">
+      <path class="cls-86" d="M71.862,120.627l-.673-.392c2.121-1.026,4.245-2.056,6.366-3.082l.673.392c-2.121,1.026-4.245,2.056-6.366,3.082h0Z"></path>
+    </clipPath>
+    <clipPath id="clippath-196">
+      <polygon class="cls-53" points=".347 134.458 206.093 134.458 206.093 .347 .347 .347 .347 134.458 .347 134.458"></polygon>
+    </clipPath>
+    <clipPath id="clippath-197">
+      <polygon class="cls-53" points=".347 134.458 206.093 134.458 206.093 .347 .347 .347 .347 134.458 .347 134.458"></polygon>
+    </clipPath>
+    <clipPath id="clippath-198">
+      <path class="cls-73" d="M79.468,107.449l-.673-.392c.385-.281.774-.534,1.17-.763l.673.392c-.396.229-.788.485-1.17.763h0Z"></path>
+    </clipPath>
+    <clipPath id="clippath-199">
+      <polygon class="cls-53" points=".347 134.458 206.093 134.458 206.093 .347 .347 .347 .347 134.458 .347 134.458"></polygon>
+    </clipPath>
+    <clipPath id="clippath-200">
+      <path class="cls-30" d="M73.764,114.414l-.673-.392c.375-.745.795-1.474,1.253-2.17l.673.392c-.458.697-.878,1.425-1.253,2.17h0Z"></path>
+    </clipPath>
+    <clipPath id="clippath-201">
+      <polygon class="cls-53" points=".347 134.458 206.093 134.458 206.093 .347 .347 .347 .347 134.458 .347 134.458"></polygon>
+    </clipPath>
+  </defs>
+  <g class="cls-160">
+    <g class="cls-218">
+      <polygon class="cls-154" points="189.931 52.655 174.706 46.861 158.696 57.374 161.747 46.105 189.025 33.589 194.287 46.521 189.931 52.655 189.931 52.655 189.931 52.655"></polygon>
+      <path class="cls-200" d="M203.187,32.386c.222.26.552.714.764,1.356.253.773.212,1.442.163,1.803-.059,1.186-.236,2.649-.68,4.278-.604,2.202-1.489,3.932-2.239,5.152-3.752,2.562-7.501,5.121-11.254,7.683.597-1.73,1.194-3.991,1.444-6.678.191-2.035.142-3.845,0-5.35,3.936-2.749,7.869-5.499,11.806-8.248l-.003.003Z"></path>
+      <path class="cls-154" d="M178.649,40.229l7.074,4.105c-2.548-1.48-6.078-1.269-9.976.974l-7.074-4.105c3.898-2.247,7.429-2.455,9.976-.974h0Z"></path>
+      <path class="cls-154" d="M165.864,78.443l-7.074-4.105c-2.517-1.46-4.079-4.563-4.089-8.976-.024-8.879,6.231-19.697,13.975-24.159l7.074,4.105c-7.744,4.462-14,15.279-13.975,24.159.014,4.414,1.572,7.517,4.089,8.976h0Z"></path>
+      <path class="cls-231" d="M175.747,45.308c7.744-4.462,14.041-.881,14.066,8.002.024,8.879-6.231,19.697-13.975,24.159-7.744,4.462-14.041.881-14.066-8.002-.024-8.879,6.231-19.697,13.975-24.159h0Z"></path>
+      <g class="cls-180">
+        <path class="cls-194" d="M172.675,73.197l-.673-.392c.913.028,1.92-.173,2.985-.624.156-.066.312-.139.472-.215l.673.392c-.16.076-.316.149-.472.215-1.066.454-2.072.655-2.985.624h0Z"></path>
+        <path class="cls-237" d="M176.132,72.358l-.673-.392c.233-.111.465-.236.701-.374.219-.125.434-.26.649-.402,1.368-.901,2.652-2.111,3.777-3.509l.673.392c-1.125,1.394-2.406,2.604-3.777,3.509-.215.142-.43.274-.649.402-.236.135-.469.26-.701.371h0v.003h0Z"></path>
+        <path class="cls-237" d="M181.259,68.077l-.673-.392c.385-.478.757-.981,1.104-1.501.455-.683.875-1.394,1.25-2.122l.673.392c-.375.728-.795,1.442-1.25,2.122-.347.52-.715,1.019-1.104,1.501h0Z"></path>
+      </g>
+      <g class="cls-108">
+        <path class="cls-237" d="M181.686,66.183c-1.298-.995-2.597-1.994-3.891-2.989l.673.392c1.298.995,2.596,1.994,3.891,2.989-.201-.118-.472-.274-.673-.392h0Z"></path>
+        <g class="cls-96">
+          <path class="cls-237" d="M182.36,66.575l-.673-.392c-1.298-.995-2.597-1.994-3.891-2.989l.673.392c1.298.995,2.596,1.994,3.891,2.989h0Z"></path>
+        </g>
+      </g>
+      <g class="cls-97">
+        <polygon class="cls-237" points="178.909 62.824 178.236 62.432 182.936 64.062 183.609 64.453 178.909 62.824 178.909 62.824 178.909 62.824"></polygon>
+        <path class="cls-237" d="M178.441,62.706l-.673-.392c.222.038.441.111.469.121l.673.392c-.028-.01-.246-.08-.469-.121h0Z"></path>
+        <g class="cls-123">
+          <path class="cls-189" d="M178.441,62.706l-.673-.392c.222.038.441.111.469.121l.673.392c-.028-.01-.246-.08-.469-.121h0Z"></path>
+        </g>
+      </g>
+      <g class="cls-127">
+        <path class="cls-211" d="M178.441,62.706c.222.038.441.111.469.121l4.7,1.63c-.375.728-.795,1.442-1.25,2.122-1.298-.995-2.597-1.994-3.891-2.989-.024-.021-.205-.191-.354-.374.118-.163.229-.333.326-.506v-.004Z"></path>
+        <g class="cls-184">
+          <path class="cls-237" d="M178.468,63.587l-.673-.392c-.024-.021-.205-.191-.354-.374l.673.392c.149.187.333.354.354.375h0Z"></path>
+        </g>
+      </g>
+      <g class="cls-190">
+        <path class="cls-90" d="M178.114,63.212l-.673-.392c.118-.163.229-.333.326-.506l.673.392c-.101.173-.208.343-.326.506h0Z"></path>
+      </g>
+      <g class="cls-216">
+        <path class="cls-189" d="M176.629,64.526l-.673-.392c.059-.028.121-.062.18-.097.038-.021.076-.045.111-.069l.673.392c-.038.024-.073.045-.111.069-.062.035-.121.066-.181.097h0Z"></path>
+      </g>
+      <g class="cls-107">
+        <path class="cls-189" d="M176.629,64.526l-.673-.392c.059-.028.121-.062.18-.097.038-.021.076-.045.111-.069l.673.392c-.038.024-.073.045-.111.069-.062.035-.121.066-.181.097h0Z"></path>
+      </g>
+      <g class="cls-198">
+        <polygon class="cls-237" points="175.66 72.573 174.987 72.182 175.65 64.516 176.323 64.904 175.66 72.573 175.66 72.573 175.66 72.573"></polygon>
+        <g class="cls-94">
+          <path class="cls-237" d="M179.291,59.638l-.673-.392c2.104-1.408,4.211-2.815,6.314-4.219l.673.392c-2.104,1.408-4.211,2.815-6.314,4.219h0Z"></path>
+        </g>
+      </g>
+      <g class="cls-113">
+        <path class="cls-199" d="M176.351,64.641l-.673-.392c.09-.031.184-.069.278-.114l.673.392c-.094.045-.187.083-.278.114h0Z"></path>
+        <path class="cls-189" d="M176.629,64.526l-.673-.392c.059-.028.121-.062.18-.097.038-.021.076-.045.111-.069l.673.392c-.038.024-.073.045-.111.069-.062.035-.121.066-.181.097h0Z"></path>
+      </g>
+      <g class="cls-135">
+        <path class="cls-90" d="M176.323,64.904l-.673-.392c0-.024.01-.125.028-.267l.673.392c-.017.139-.028.243-.028.267h0Z"></path>
+      </g>
+      <g class="cls-182">
+        <path class="cls-211" d="M176.351,64.641c.149-.052.302-.121.458-.212.038-.021.076-.045.111-.069.014.097.024.167.024.184.177,2.347.354,4.691.535,7.038-.215.142-.43.274-.649.402-.396.229-.788.423-1.173.586l.663-7.666c0-.024.01-.125.028-.267l.003.003Z"></path>
+        <g class="cls-155">
+          <path class="cls-90" d="M179.093,60.442l-.673-.392c-.003-.218-.031-.416-.08-.593l.673.392c.049.177.076.374.08.593h0Z"></path>
+        </g>
+      </g>
+      <g class="cls-195">
+        <path class="cls-237" d="M179.013,59.846l-.673-.392c.142-.111.253-.191.278-.208l.673.392c-.021.017-.135.097-.278.208h0Z"></path>
+      </g>
+      <g class="cls-204">
+        <path class="cls-237" d="M183.609,64.453l-.673-.392c1.163-2.261,1.909-4.694,2.048-6.976.017-.267.024-.531.024-.791,0-.444-.028-.867-.076-1.269-.219-1.789-.903-3.145-1.913-3.994-.187-.159-.389-.298-.601-.42l.673.392c.212.121.41.263.601.42,1.01.846,1.694,2.205,1.913,3.994.049.402.076.825.076,1.269,0,.26-.007.523-.024.79-.139,2.281-.885,4.715-2.048,6.976h0Z"></path>
+      </g>
+      <g class="cls-91">
+        <path class="cls-205" d="M176.038,63.919l-.673-.392c.194.007.41-.045.639-.156l.673.392c-.229.111-.444.163-.639.156h0Z"></path>
+        <path class="cls-162" d="M176.677,63.763l-.673-.392c.042-.021.087-.045.132-.069l.673.392c-.045.024-.087.049-.132.069h0Z"></path>
+      </g>
+      <g class="cls-145">
+        <path class="cls-205" d="M176.038,63.919l-.673-.392c.194.007.41-.045.639-.156l.673.392c-.229.111-.444.163-.639.156h0Z"></path>
+      </g>
+      <g class="cls-93">
+        <path class="cls-205" d="M176.038,63.919l-.673-.392c.194.007.41-.045.639-.156l.673.392c-.229.111-.444.163-.639.156h0Z"></path>
+      </g>
+      <g class="cls-167">
+        <path class="cls-205" d="M176.038,63.919l-.673-.392c.194.007.41-.045.639-.156l.673.392c-.229.111-.444.163-.639.156h0Z"></path>
+      </g>
+      <g class="cls-129">
+        <path class="cls-162" d="M175.636,63.808l-.673-.392c.118.069.253.107.403.111l.673.392c-.149-.003-.285-.042-.403-.111h0Z"></path>
+        <path class="cls-205" d="M176.038,63.919l-.673-.392c.194.007.41-.045.639-.156l.673.392c-.229.111-.444.163-.639.156h0Z"></path>
+      </g>
+      <g class="cls-239">
+        <path class="cls-162" d="M175.636,63.808l-.673-.392c.118.069.253.107.403.111l.673.392c-.149-.003-.285-.042-.403-.111h0Z"></path>
+      </g>
+      <g class="cls-166">
+        <path class="cls-162" d="M175.636,63.808l-.673-.392c.118.069.253.107.403.111l.673.392c-.149-.003-.285-.042-.403-.111h0Z"></path>
+      </g>
+      <g class="cls-152">
+        <path class="cls-162" d="M175.636,63.808l-.673-.392c.118.069.253.107.403.111l.673.392c-.149-.003-.285-.042-.403-.111h0Z"></path>
+      </g>
+      <g class="cls-186">
+        <path class="cls-162" d="M175.636,63.808l-.673-.392c.118.069.253.107.403.111l.673.392c-.149-.003-.285-.042-.403-.111h0Z"></path>
+      </g>
+      <g class="cls-173">
+        <path class="cls-202" d="M183.609,64.453l-.673-.392c1.163-2.261,1.909-4.694,2.048-6.976.017-.267.024-.531.024-.791,0-.444-.028-.867-.076-1.269-.219-1.789-.903-3.145-1.913-3.994-.187-.159-.389-.298-.601-.42l.673.392c.212.121.41.263.601.42,1.01.846,1.694,2.205,1.913,3.994.049.402.076.825.076,1.269,0,.26-.007.523-.024.79-.139,2.281-.885,4.715-2.048,6.976h0Z"></path>
+      </g>
+      <g class="cls-120">
+        <path class="cls-162" d="M176.809,63.694l-.673-.392c.299-.173.58-.427.823-.728l.673.392c-.243.302-.524.555-.823.728h0Z"></path>
+        <path class="cls-221" d="M177.632,62.969l-.673-.392c.493-.61.823-1.415.823-2.115,0-.52-.184-.884-.482-1.057l.673.392c.295.173.479.537.483,1.057,0,.7-.33,1.505-.823,2.115h0Z"></path>
+      </g>
+      <g class="cls-161">
+        <path class="cls-90" d="M178.562,59.111l-.673-.392c-.042-.035-.09-.066-.135-.094l.673.392c.049.028.094.059.135.094h0Z"></path>
+      </g>
+      <g class="cls-222">
+        <path class="cls-189" d="M175.181,64.589l-.673-.392c.101.059.208.101.326.125l.673.392c-.118-.024-.226-.066-.326-.125h0Z"></path>
+      </g>
+      <g class="cls-131">
+        <path class="cls-237" d="M170.616,72.563c1.232.416,2.732.315,4.367-.381.226.132.451.26.673.392-1.638.697-3.135.797-4.367.381-.271-.094-.531-.211-.778-.354l-.673-.392c.246.142.503.26.778.354h0Z"></path>
+        <g class="cls-103">
+          <path class="cls-206" d="M170.516,72.601l-.673-.392c.246.142.503.26.774.35.43.146.892.229,1.382.243l.673.392c-.489-.017-.951-.097-1.382-.243-.271-.094-.531-.208-.774-.35h0Z"></path>
+          <path class="cls-194" d="M172.675,73.197l-.673-.392c.913.028,1.92-.173,2.985-.624.156-.066.312-.139.472-.215l.673.392c-.16.076-.316.149-.472.215-1.066.454-2.072.655-2.985.624h0Z"></path>
+        </g>
+      </g>
+      <g class="cls-229">
+        <path class="cls-162" d="M175.636,63.808l-.673-.392c.118.069.253.107.403.111l.673.392c-.149-.003-.285-.042-.403-.111h0Z"></path>
+      </g>
+      <g class="cls-235">
+        <path class="cls-237" d="M174.709,65.244l-.673-.392c.028-.045.243-.36.469-.659l.673.392c-.222.298-.437.614-.465.659h-.003Z"></path>
+      </g>
+      <g class="cls-175">
+        <path class="cls-215" d="M176.799,59.911l-.673-.392c.045-.024.087-.048.132-.069l.673.392c-.042.021-.087.045-.132.069h0Z"></path>
+        <path class="cls-163" d="M176.931,59.842l-.673-.392c.229-.111.444-.163.639-.156l.673.392c-.194-.007-.41.045-.639.156h0Z"></path>
+        <path class="cls-215" d="M177.569,59.686l-.673-.392c.149.004.285.042.403.111l.673.392c-.118-.069-.253-.108-.403-.111h0Z"></path>
+      </g>
+      <g class="cls-243">
+        <path class="cls-172" d="M175.636,63.808l-.673-.392c-.295-.173-.479-.537-.482-1.057,0-.7.33-1.505.823-2.115l.673.392c-.493.61-.823,1.415-.823,2.115,0,.52.184.884.483,1.057h0Z"></path>
+        <path class="cls-215" d="M175.976,60.636l-.673-.392c.243-.302.524-.555.823-.728l.673.392c-.299.173-.58.426-.823.728h0Z"></path>
+      </g>
+      <g class="cls-109">
+        <path class="cls-237" d="M175.181,64.589l-.673-.392h-.003c-.41-.239-.66-.745-.663-1.463v-.035c0-.229.028-.465.076-.7.087-.43.246-.863.462-1.276.108-.208.229-.409.361-.6.076-.111.156-.218.24-.322l.673.392c-.083.104-.163.211-.24.322-.132.191-.253.395-.361.6-.215.412-.375.849-.462,1.276-.049.239-.076.475-.076.7v.035c0,.718.253,1.224.663,1.463h.003Z"></path>
+        <path class="cls-237" d="M175.653,60.185l-.673-.392c.208-.257.434-.489.677-.686.149-.121.305-.229.465-.323.056-.031.111-.062.167-.087.007,0,.01-.007.017-.007l.673.392s-.01.007-.017.007c-.056.028-.111.055-.167.087-.16.09-.312.201-.465.322-.243.198-.469.43-.677.687h0Z"></path>
+        <path class="cls-237" d="M176.979,59.079l-.673-.392c.319-.156.621-.225.889-.215l.673.392c-.271-.007-.569.062-.889.215h0Z"></path>
+        <path class="cls-237" d="M177.868,58.864l-.673-.392c.121.003.236.024.344.059.073.024.146.055.212.094l.673.392c-.066-.038-.139-.069-.212-.094-.108-.035-.222-.055-.344-.059h0Z"></path>
+      </g>
+      <g class="cls-203">
+        <path class="cls-237" d="M178.212,58.923l-.673-.392c.125-.284.246-.537.264-.579l.673.392c-.017.038-.142.295-.264.579h0Z"></path>
+        <g class="cls-177">
+          <path class="cls-237" d="M178.212,58.923l-.673-.392c.125-.284.246-.537.264-.579l.673.392c-.017.038-.142.295-.264.579h0Z"></path>
+        </g>
+      </g>
+      <g class="cls-1">
+        <path class="cls-90" d="M170.516,72.601l-.673-.392c-.167-.097-.33-.205-.482-.326l.673.392c.153.121.316.229.483.326h0Z"></path>
+      </g>
+      <g class="cls-197">
+        <path class="cls-211" d="M175.178,64.585c.101.059.212.1.33.128-.149.357-.33.735-.351.784-1.288,2.486-2.576,4.972-3.864,7.458-.458-.156-.878-.381-1.257-.676l4.676-7.031c.028-.045.243-.364.465-.659v-.003Z"></path>
+        <polygon class="cls-237" points="170.033 72.275 169.36 71.883 174.036 64.852 174.709 65.244 170.033 72.275 170.033 72.275 170.033 72.275"></polygon>
+        <g class="cls-100">
+          <path class="cls-189" d="M182.44,50.696l-.673-.392c.226.083.444.187.653.308l.673.392c-.208-.121-.424-.222-.653-.309h0Z"></path>
+        </g>
+      </g>
+      <g class="cls-99">
+        <path class="cls-237" d="M177.802,57.953c1.319-2.548,2.642-5.1,3.961-7.648l.673.392c-1.319,2.548-2.642,5.1-3.961,7.648-.201-.118-.472-.274-.673-.392h0Z"></path>
+        <g class="cls-119">
+          <path class="cls-237" d="M178.479,58.344l-.673-.392c1.319-2.548,2.642-5.1,3.961-7.648l.673.392c-1.319,2.548-2.642,5.1-3.961,7.648h0Z"></path>
+        </g>
+      </g>
+      <g class="cls-233">
+        <path class="cls-237" d="M173.685,62.089c.021-.007.111-.045.229-.094l.673.392c-.121.045-.212.083-.229.094-.201-.118-.472-.274-.673-.392h0Z"></path>
+        <g class="cls-143">
+          <path class="cls-237" d="M174.362,62.481l-.673-.392c.021-.007.111-.045.229-.094l.673.392c-.122.045-.212.083-.229.094h0Z"></path>
+        </g>
+      </g>
+      <g class="cls-224">
+        <path class="cls-211" d="M179.093,60.442v.042c0,.718-.246,1.512-.653,2.222-.101.173-.208.343-.326.506-.34.468-.75.87-1.191,1.151-.038.024-.073.045-.111.069-.156.09-.312.159-.458.211-.309.104-.594.128-.844.073-.118-.024-.229-.069-.33-.128-.41-.239-.66-.745-.663-1.463v-.035c0-.229.028-.465.076-.7.087-.43.246-.863.462-1.276.108-.208.229-.409.361-.6.267-.385.58-.732.916-1.009.149-.121.305-.229.465-.323.056-.031.111-.062.167-.087.469-.232.903-.281,1.253-.166.128.042.246.104.347.187.208.166.365.416.451.735.049.177.076.375.08.593l-.003-.003ZM176.809,63.694c.909-.524,1.649-1.796,1.645-2.843,0-1.044-.743-1.467-1.656-.94-.909.524-1.649,1.796-1.645,2.843,0,1.044.743,1.467,1.656.943h0v-.003h0Z"></path>
+        <g class="cls-142">
+          <path class="cls-189" d="M176.774,51.622l-.673-.392c.233-.135.462-.257.691-.368l.673.392c-.229.111-.458.232-.691.367h0Z"></path>
+        </g>
+      </g>
+      <g class="cls-164">
+        <path class="cls-189" d="M176.774,51.622l-.673-.392c.233-.135.462-.257.691-.368l.673.392c-.229.111-.458.232-.691.367h0Z"></path>
+      </g>
+      <g class="cls-146">
+        <path class="cls-90" d="M167.954,67.685l-.673-.392c-.017-.25-.028-.503-.028-.766,0-.444.021-.898.069-1.356l.673.392c-.049.458-.069.912-.069,1.356,0,.264.01.52.028.766h0Z"></path>
+      </g>
+      <g class="cls-141">
+        <path class="cls-211" d="M167.996,65.563c2.121-1.026,4.245-2.056,6.366-3.082.021-.007.111-.045.229-.094-.049.239-.076.475-.076.7-.08.059-.135.097-.149.111l-6.411,4.49c-.017-.25-.028-.503-.028-.766,0-.444.021-.898.069-1.356v-.003Z"></path>
+        <path class="cls-237" d="M167.996,65.563l-.673-.392c2.121-1.026,4.245-2.056,6.366-3.082l.673.392c-2.121,1.026-4.245,2.056-6.366,3.082h0Z"></path>
+        <g class="cls-171">
+          <path class="cls-237" d="M167.996,65.563l-.673-.392c2.121-1.026,4.245-2.056,6.366-3.082l.673.392c-2.121,1.026-4.245,2.056-6.366,3.082h0Z"></path>
+        </g>
+      </g>
+      <g class="cls-169">
+        <path class="cls-211" d="M176.774,51.622c.233-.135.462-.256.691-.367-.17,2.611-.337,5.225-.507,7.836-.056.028-.111.055-.167.087-.16.09-.312.201-.465.322l-.729-7.115c.385-.281.774-.534,1.17-.763h.007Z"></path>
+        <polygon class="cls-237" points="176.334 59.499 175.657 59.107 174.928 51.993 175.605 52.384 176.334 59.499 176.334 59.499 176.334 59.499"></polygon>
+        <g class="cls-151">
+          <path class="cls-189" d="M175.605,52.384l-.673-.392c.385-.281.774-.534,1.17-.763l.673.392c-.396.229-.788.485-1.17.763h0Z"></path>
+        </g>
+      </g>
+      <g class="cls-106">
+        <path class="cls-90" d="M169.898,59.346l-.673-.392c.375-.745.795-1.474,1.253-2.17l.673.392c-.458.697-.878,1.425-1.253,2.17h0Z"></path>
+      </g>
+      <g class="cls-134">
+        <path class="cls-211" d="M176.771,50.609c5.391-3.107,9.772-.614,9.789,5.568.017,6.182-4.339,13.709-9.727,16.816-5.391,3.106-9.772.614-9.792-5.568-.017-6.182,4.339-13.709,9.727-16.815h.003ZM183.609,64.453c1.163-2.26,1.909-4.694,2.048-6.976.017-.267.024-.53.024-.79,0-.444-.028-.867-.076-1.269-.219-1.789-.903-3.145-1.913-3.994-.375-.316-.795-.558-1.253-.728-1.375-.513-3.093-.361-4.974.558-.229.111-.458.232-.691.367-.396.229-.788.485-1.17.763-1.68,1.22-3.207,2.899-4.454,4.792-.458.697-.878,1.425-1.253,2.17-1.014,2.018-1.691,4.167-1.902,6.217-.049.458-.069.912-.069,1.356,0,.264.01.52.028.766.153,2.111.909,3.679,2.079,4.59.378.295.798.524,1.257.676,1.232.416,2.732.315,4.367-.381.385-.163.774-.357,1.173-.586.219-.125.434-.26.649-.402,1.84-1.214,3.523-2.982,4.877-5.01.455-.683.875-1.394,1.25-2.122h0l.003.003h0Z"></path>
+        <path class="cls-211" d="M185.605,55.418c-2.104,1.408-4.211,2.815-6.314,4.219-.021.017-.132.097-.278.208.049.177.076.375.08.593.104-.042.181-.076.198-.083l6.366-2.881c.017-.267.024-.531.024-.791,0-.444-.028-.867-.076-1.269v.003Z"></path>
+        <path class="cls-211" d="M182.44,50.696c.458.17.878.416,1.253.728l-4.77,7.173c-.024.038-.181.267-.361.513-.104-.083-.222-.146-.347-.187.125-.284.246-.537.264-.579,1.319-2.548,2.642-5.1,3.961-7.648h0Z"></path>
+        <path class="cls-237" d="M176.799,59.911c.909-.524,1.652-.104,1.656.94,0,1.044-.732,2.316-1.645,2.843-.909.524-1.652.104-1.656-.943,0-1.044.732-2.316,1.645-2.843v.003Z"></path>
+        <path class="cls-211" d="M171.151,57.172c1.336,1.026,2.676,2.052,4.013,3.082.017.017.132.121.25.253-.132.191-.253.395-.361.6-.167-.038-.309-.083-.33-.09l-4.825-1.671c.375-.745.795-1.474,1.253-2.17v-.003Z"></path>
+        <path class="cls-237" d="M45.838,35.07c1.208.593,2.68,1.439,4.225,2.631,1.555,1.2,2.739,2.417,3.607,3.429.056.236.233,1.096-.253,1.98-.41.742-1.052,1.075-1.295,1.186-1.316-.7-2.798-1.595-4.35-2.729-1.441-1.054-2.656-2.108-3.666-3.075-.021-.371-.007-1.016.299-1.727.41-.957,1.111-1.484,1.434-1.699v.004Z"></path>
+        <path class="cls-200" d="M95.415,106.343c-2.406-1.193-5.113-2.396-8.112-3.509-2.503-.929-4.888-1.678-7.113-2.285-1.114.496-2.253,1.047-3.409,1.654-5.124,2.69-9.282,5.835-12.597,8.858,1.017-3.755,2.034-7.513,3.051-11.268l27.277-12.516,5.262,12.932-4.356,6.133h-.003Z"></path>
+        <path class="cls-154" d="M82.515,95.297l7.074,4.105c-2.548-1.48-6.078-1.269-9.976.974l-7.074-4.105c3.898-2.247,7.429-2.455,9.976-.974h0Z"></path>
+        <path class="cls-154" d="M69.727,133.511l-7.074-4.105c-2.517-1.46-4.079-4.563-4.089-8.976-.024-8.879,6.231-19.697,13.975-24.159l7.074,4.105c-7.744,4.462-14,15.279-13.975,24.159.014,4.414,1.572,7.517,4.089,8.976h0Z"></path>
+        <path class="cls-231" d="M79.613,100.373c7.744-4.462,14.041-.881,14.066,8.002.024,8.879-6.231,19.697-13.975,24.159s-14.041.881-14.066-8.002c-.024-8.879,6.231-19.697,13.975-24.159h0Z"></path>
+        <g class="cls-112">
+          <path class="cls-194" d="M76.541,128.265l-.673-.392c.913.028,1.92-.173,2.985-.624.156-.066.312-.139.472-.215l.673.392c-.16.076-.316.149-.472.215-1.066.454-2.072.655-2.985.624h0Z"></path>
+          <path class="cls-237" d="M79.995,127.423l-.673-.392c.233-.111.465-.236.701-.374.219-.125.434-.26.649-.402,1.368-.901,2.652-2.111,3.777-3.509l.673.392c-1.125,1.394-2.406,2.604-3.777,3.509-.215.142-.43.274-.649.402-.236.135-.469.26-.701.371h0v.003h0Z"></path>
+          <path class="cls-237" d="M85.122,123.141l-.673-.392c.385-.478.757-.981,1.104-1.501.455-.683.875-1.394,1.25-2.122l.673.392c-.375.728-.795,1.442-1.25,2.122-.347.52-.715,1.019-1.104,1.501h0Z"></path>
+        </g>
+      </g>
+      <g class="cls-153">
+        <path class="cls-237" d="M85.553,121.252c-1.298-.995-2.597-1.994-3.891-2.989l.673.392c1.298.995,2.597,1.994,3.891,2.989-.201-.118-.472-.274-.673-.392h0Z"></path>
+        <g class="cls-213">
+          <path class="cls-237" d="M86.226,121.64l-.673-.392c-1.298-.995-2.597-1.994-3.891-2.989l.673.392c1.298.995,2.597,1.994,3.891,2.989h0Z"></path>
+        </g>
+      </g>
+      <g class="cls-92">
+        <polygon class="cls-237" points="82.776 117.892 82.099 117.5 86.802 119.126 87.476 119.518 82.776 117.892 82.776 117.892 82.776 117.892"></polygon>
+        <path class="cls-237" d="M82.307,117.771l-.673-.392c.222.038.441.111.469.121l.673.392c-.028-.01-.246-.08-.469-.121h0Z"></path>
+        <g class="cls-136">
+          <path class="cls-189" d="M82.307,117.771l-.673-.392c.222.038.441.111.469.121l.673.392c-.028-.01-.246-.08-.469-.121h0Z"></path>
+        </g>
+      </g>
+      <g class="cls-165">
+        <path class="cls-211" d="M82.307,117.771c.222.038.441.111.469.121l4.7,1.63c-.375.728-.795,1.442-1.25,2.122-1.298-.995-2.597-1.994-3.891-2.989-.024-.021-.205-.191-.354-.374.118-.163.229-.333.326-.506v-.003Z"></path>
+        <g class="cls-196">
+          <path class="cls-237" d="M82.335,118.655l-.673-.392c-.024-.021-.205-.191-.354-.374l.673.392c.149.187.333.354.354.374h0Z"></path>
+        </g>
+      </g>
+      <g class="cls-121">
+        <path class="cls-90" d="M81.977,118.277l-.673-.392c.118-.163.229-.333.326-.506l.673.392c-.101.173-.208.343-.326.506h0Z"></path>
+      </g>
+      <g class="cls-104">
+        <path class="cls-189" d="M80.495,119.591l-.673-.392c.059-.028.121-.062.181-.097.038-.021.076-.045.111-.069l.673.392c-.038.024-.073.045-.111.069-.062.035-.121.066-.181.097h0Z"></path>
+      </g>
+      <g class="cls-157">
+        <path class="cls-189" d="M80.495,119.591l-.673-.392c.059-.028.121-.062.181-.097.038-.021.076-.045.111-.069l.673.392c-.038.024-.073.045-.111.069-.062.035-.121.066-.181.097h0Z"></path>
+      </g>
+      <g class="cls-217">
+        <polygon class="cls-237" points="79.527 127.638 78.85 127.246 79.513 119.58 80.19 119.972 79.527 127.638 79.527 127.638 79.527 127.638"></polygon>
+        <g class="cls-125">
+          <path class="cls-237" d="M83.154,114.706l-.673-.392c2.104-1.408,4.211-2.815,6.314-4.219l.673.392c-2.104,1.408-4.211,2.815-6.314,4.219h0Z"></path>
+        </g>
+      </g>
+      <g class="cls-207">
+        <path class="cls-199" d="M80.217,119.705l-.673-.392c.09-.031.184-.069.278-.114l.673.392c-.094.045-.187.083-.278.114h0Z"></path>
+        <path class="cls-189" d="M80.495,119.591l-.673-.392c.059-.028.121-.062.181-.097.038-.021.076-.045.111-.069l.673.392c-.038.024-.073.045-.111.069-.062.035-.121.066-.181.097h0Z"></path>
+      </g>
+      <g class="cls-214">
+        <path class="cls-90" d="M80.19,119.972l-.673-.392c0-.024.01-.125.028-.267l.673.392c-.017.139-.028.243-.028.267h0Z"></path>
+      </g>
+      <g class="cls-110">
+        <path class="cls-211" d="M80.217,119.705c.149-.052.302-.121.458-.211.038-.021.076-.045.111-.069.014.097.024.166.024.184.177,2.347.354,4.691.535,7.038-.215.142-.43.274-.649.402-.396.229-.788.423-1.173.586l.663-7.666c0-.024.01-.125.028-.267l.003.003Z"></path>
+        <g class="cls-122">
+          <path class="cls-90" d="M82.96,115.507l-.673-.392c-.003-.218-.031-.416-.08-.593l.673.392c.049.177.076.374.08.593h0Z"></path>
+        </g>
+      </g>
+      <g class="cls-137">
+        <path class="cls-237" d="M82.88,114.914l-.673-.392c.142-.111.253-.191.278-.208l.673.392c-.021.017-.135.097-.278.208h0Z"></path>
+      </g>
+      <g class="cls-130">
+        <path class="cls-237" d="M87.476,119.518l-.673-.392c1.163-2.261,1.909-4.694,2.048-6.976.017-.267.024-.53.024-.79,0-.444-.028-.867-.076-1.269-.219-1.789-.903-3.145-1.913-3.994-.187-.159-.389-.298-.601-.42l.673.392c.212.121.41.263.601.419,1.01.846,1.694,2.205,1.913,3.994.049.402.076.825.076,1.269,0,.26-.007.523-.024.79-.139,2.281-.885,4.715-2.048,6.976h0Z"></path>
+      </g>
+      <g class="cls-236">
+        <path class="cls-205" d="M79.905,118.987l-.673-.392c.194.007.41-.045.639-.156l.673.392c-.229.111-.444.163-.639.156h0Z"></path>
+        <path class="cls-162" d="M80.544,118.831l-.673-.392c.042-.021.087-.045.132-.069l.673.392c-.045.024-.087.049-.132.069h0Z"></path>
+      </g>
+      <g class="cls-223">
+        <path class="cls-205" d="M79.905,118.987l-.673-.392c.194.007.41-.045.639-.156l.673.392c-.229.111-.444.163-.639.156h0Z"></path>
+      </g>
+      <g class="cls-101">
+        <path class="cls-205" d="M79.905,118.987l-.673-.392c.194.007.41-.045.639-.156l.673.392c-.229.111-.444.163-.639.156h0Z"></path>
+      </g>
+      <g class="cls-116">
+        <path class="cls-205" d="M79.905,118.987l-.673-.392c.194.007.41-.045.639-.156l.673.392c-.229.111-.444.163-.639.156h0Z"></path>
+      </g>
+      <g class="cls-124">
+        <path class="cls-162" d="M79.502,118.877l-.673-.392c.118.069.253.107.403.111l.673.392c-.149-.003-.285-.042-.403-.111h0Z"></path>
+        <path class="cls-205" d="M79.905,118.987l-.673-.392c.194.007.41-.045.639-.156l.673.392c-.229.111-.444.163-.639.156h0Z"></path>
+      </g>
+      <g class="cls-228">
+        <path class="cls-162" d="M79.502,118.877l-.673-.392c.118.069.253.107.403.111l.673.392c-.149-.003-.285-.042-.403-.111h0Z"></path>
+      </g>
+      <g class="cls-181">
+        <path class="cls-162" d="M79.502,118.877l-.673-.392c.118.069.253.107.403.111l.673.392c-.149-.003-.285-.042-.403-.111h0Z"></path>
+      </g>
+      <g class="cls-132">
+        <path class="cls-162" d="M79.502,118.877l-.673-.392c.118.069.253.107.403.111l.673.392c-.149-.003-.285-.042-.403-.111h0Z"></path>
+      </g>
+      <g class="cls-210">
+        <path class="cls-162" d="M79.502,118.877l-.673-.392c.118.069.253.107.403.111l.673.392c-.149-.003-.285-.042-.403-.111h0Z"></path>
+      </g>
+      <g class="cls-245">
+        <path class="cls-202" d="M87.476,119.518l-.673-.392c1.163-2.261,1.909-4.694,2.048-6.976.017-.267.024-.53.024-.79,0-.444-.028-.867-.076-1.269-.219-1.789-.903-3.145-1.913-3.994-.187-.159-.389-.298-.601-.42l.673.392c.212.121.41.263.601.419,1.01.846,1.694,2.205,1.913,3.994.049.402.076.825.076,1.269,0,.26-.007.523-.024.79-.139,2.281-.885,4.715-2.048,6.976h0Z"></path>
+      </g>
+      <g class="cls-176">
+        <path class="cls-162" d="M80.676,118.762l-.673-.392c.299-.173.58-.426.823-.728l.673.392c-.243.302-.524.555-.823.728h0Z"></path>
+        <path class="cls-221" d="M81.498,118.034l-.673-.392c.493-.61.823-1.415.823-2.115,0-.52-.184-.884-.483-1.057l.673.392c.295.173.479.537.483,1.057,0,.7-.33,1.505-.823,2.115h0Z"></path>
+      </g>
+      <g class="cls-220">
+        <path class="cls-90" d="M82.429,114.179l-.673-.392c-.042-.035-.09-.066-.135-.094l.673.392c.049.028.094.059.135.094h0Z"></path>
+      </g>
+      <g class="cls-114">
+        <path class="cls-189" d="M79.048,119.653l-.673-.392c.101.059.208.101.326.125l.673.392c-.118-.024-.226-.066-.326-.125h0Z"></path>
+      </g>
+      <g class="cls-144">
+        <path class="cls-237" d="M74.483,127.628c1.232.416,2.732.315,4.367-.381.226.132.451.26.673.392-1.638.697-3.135.797-4.367.381-.271-.094-.531-.211-.778-.354l-.673-.392c.246.142.503.26.778.354h0Z"></path>
+        <g class="cls-244">
+          <path class="cls-206" d="M74.382,127.669l-.673-.392c.246.142.503.26.774.35.43.146.892.229,1.382.243l.673.392c-.489-.017-.951-.097-1.382-.243-.271-.094-.531-.208-.774-.35h0Z"></path>
+          <path class="cls-194" d="M76.541,128.265l-.673-.392c.913.028,1.92-.173,2.985-.624.156-.066.312-.139.472-.215l.673.392c-.16.076-.316.149-.472.215-1.066.454-2.072.655-2.985.624h0Z"></path>
+        </g>
+      </g>
+      <g class="cls-242">
+        <path class="cls-162" d="M79.502,118.877l-.673-.392c.118.069.253.107.403.111l.673.392c-.149-.003-.285-.042-.403-.111h0Z"></path>
+      </g>
+      <g class="cls-95">
+        <path class="cls-237" d="M78.576,120.312l-.673-.392c.028-.045.243-.361.469-.659l.673.392c-.222.298-.437.614-.465.659h-.003Z"></path>
+      </g>
+      <g class="cls-111">
+        <path class="cls-215" d="M80.665,114.976l-.673-.392c.045-.024.087-.049.132-.069l.673.392c-.042.021-.087.045-.132.069h0Z"></path>
+        <path class="cls-163" d="M80.794,114.907l-.673-.392c.229-.111.444-.163.639-.156l.673.392c-.194-.007-.41.045-.639.156h0Z"></path>
+        <path class="cls-215" d="M81.436,114.751l-.673-.392c.149.003.285.042.403.111l.673.392c-.118-.069-.253-.107-.403-.111h0Z"></path>
+      </g>
+      <g class="cls-238">
+        <path class="cls-172" d="M79.502,118.877l-.673-.392c-.295-.173-.479-.537-.483-1.057,0-.7.33-1.505.823-2.115l.673.392c-.493.61-.823,1.415-.823,2.115,0,.52.184.884.483,1.057h0Z"></path>
+        <path class="cls-215" d="M79.843,115.704l-.673-.392c.243-.302.524-.555.823-.728l.673.392c-.299.173-.58.426-.823.728h0Z"></path>
+      </g>
+      <g class="cls-140">
+        <path class="cls-237" d="M79.048,119.653l-.673-.392h-.003c-.41-.239-.66-.745-.663-1.463v-.035c0-.229.028-.465.076-.7.087-.43.246-.863.462-1.276.108-.208.229-.409.361-.6.076-.111.156-.218.24-.322l.673.392c-.083.104-.163.211-.24.322-.132.191-.253.395-.361.6-.215.413-.375.849-.462,1.276-.049.239-.076.475-.076.7v.035c0,.718.253,1.224.663,1.463h.003Z"></path>
+        <path class="cls-237" d="M79.52,115.25l-.673-.392c.208-.257.434-.489.677-.686.149-.121.305-.229.465-.322.056-.031.111-.062.167-.087.007,0,.01-.007.017-.007l.673.392s-.01.007-.017.007c-.056.028-.111.055-.167.087-.16.09-.312.201-.465.322-.243.198-.469.43-.677.686h0Z"></path>
+        <path class="cls-237" d="M80.842,114.147l-.673-.392c.319-.156.621-.225.889-.215l.673.392c-.271-.007-.569.062-.889.215h0Z"></path>
+        <path class="cls-237" d="M81.734,113.929l-.673-.392c.121.003.236.024.344.059.073.024.146.055.212.094l.673.392c-.066-.038-.139-.069-.212-.094-.108-.035-.222-.055-.344-.059h0Z"></path>
+      </g>
+      <g class="cls-102">
+        <path class="cls-237" d="M82.078,113.988l-.673-.392c.125-.284.246-.537.264-.579l.673.392c-.017.038-.142.295-.264.579h0Z"></path>
+        <g class="cls-148">
+          <path class="cls-237" d="M82.078,113.988l-.673-.392c.125-.284.246-.537.264-.579l.673.392c-.017.038-.142.295-.264.579h0Z"></path>
+        </g>
+      </g>
+      <g class="cls-139">
+        <path class="cls-90" d="M74.382,127.669l-.673-.392c-.167-.097-.33-.205-.483-.326l.673.392c.153.121.316.229.483.326h0Z"></path>
+      </g>
+      <g class="cls-240">
+        <path class="cls-211" d="M79.044,119.65c.101.059.212.101.33.128-.149.357-.33.735-.351.784-1.288,2.486-2.576,4.972-3.864,7.458-.458-.156-.878-.381-1.257-.676l4.676-7.031c.028-.045.243-.364.465-.659v-.003Z"></path>
+        <polygon class="cls-237" points="73.9 127.343 73.223 126.951 77.902 119.92 78.576 120.312 73.9 127.343 73.9 127.343 73.9 127.343"></polygon>
+        <g class="cls-138">
+          <path class="cls-189" d="M86.306,105.764l-.673-.392c.226.083.444.187.653.309l.673.392c-.208-.121-.423-.222-.653-.309h0Z"></path>
+        </g>
+      </g>
+      <g class="cls-168">
+        <path class="cls-237" d="M81.668,113.021c1.319-2.548,2.642-5.1,3.961-7.648l.673.392c-1.319,2.548-2.642,5.1-3.961,7.648l-.673-.392h0Z"></path>
+        <g class="cls-149">
+          <path class="cls-237" d="M82.342,113.412l-.673-.392c1.319-2.548,2.642-5.1,3.961-7.648l.673.392c-1.319,2.548-2.642,5.1-3.961,7.648h0Z"></path>
+        </g>
+      </g>
+      <g class="cls-191">
+        <path class="cls-237" d="M77.552,117.153c.021-.007.111-.045.229-.094l.673.392c-.121.045-.212.083-.229.094l-.673-.392h0Z"></path>
+        <g class="cls-234">
+          <path class="cls-237" d="M78.228,117.545l-.673-.392c.021-.007.111-.045.229-.094l.673.392c-.121.045-.212.083-.229.094h0Z"></path>
+        </g>
+      </g>
+      <g class="cls-192">
+        <path class="cls-211" d="M82.96,115.507v.042c0,.718-.246,1.512-.653,2.222-.101.173-.208.343-.326.506-.34.468-.75.87-1.191,1.151-.038.024-.073.045-.111.069-.156.09-.312.159-.458.211-.309.104-.594.128-.844.073-.118-.024-.229-.069-.33-.128-.41-.239-.66-.745-.663-1.463v-.035c0-.229.028-.465.076-.7.087-.43.246-.863.462-1.276.108-.208.229-.409.361-.6.267-.385.58-.732.916-1.009.149-.121.305-.229.465-.322.056-.031.111-.062.167-.087.469-.232.903-.281,1.253-.166.128.042.246.104.347.187.208.166.364.416.451.735.049.177.076.374.08.593l-.003-.003ZM80.676,118.762c.909-.524,1.649-1.796,1.645-2.843,0-1.044-.743-1.467-1.656-.94-.909.524-1.649,1.796-1.645,2.843,0,1.044.743,1.467,1.656.943h0v-.003h0Z"></path>
+        <g class="cls-209">
+          <path class="cls-189" d="M80.641,106.686l-.673-.392c.233-.135.462-.257.691-.368l.673.392c-.229.111-.458.232-.691.367h0Z"></path>
+        </g>
+      </g>
+      <g class="cls-179">
+        <path class="cls-189" d="M80.641,106.686l-.673-.392c.233-.135.462-.257.691-.368l.673.392c-.229.111-.458.232-.691.367h0Z"></path>
+      </g>
+      <g class="cls-159">
+        <path class="cls-90" d="M71.82,122.753l-.673-.392c-.017-.25-.028-.503-.028-.766,0-.444.021-.898.069-1.356l.673.392c-.049.458-.069.912-.069,1.356,0,.263.01.52.028.766h0Z"></path>
+      </g>
+      <g class="cls-156">
+        <path class="cls-211" d="M71.862,120.627c2.121-1.026,4.245-2.056,6.366-3.082.021-.007.111-.045.229-.094-.049.239-.076.475-.076.7-.08.059-.135.097-.149.111l-6.411,4.49c-.017-.25-.028-.503-.028-.766,0-.444.021-.898.069-1.356v-.003Z"></path>
+        <path class="cls-237" d="M71.862,120.627l-.673-.392c2.121-1.026,4.245-2.056,6.366-3.082l.673.392c-2.121,1.026-4.245,2.056-6.366,3.082h0Z"></path>
+        <g class="cls-118">
+          <path class="cls-237" d="M71.862,120.627l-.673-.392c2.121-1.026,4.245-2.056,6.366-3.082l.673.392c-2.121,1.026-4.245,2.056-6.366,3.082h0Z"></path>
+        </g>
+      </g>
+      <g class="cls-115">
+        <path class="cls-211" d="M80.641,106.686c.233-.135.462-.257.691-.367-.17,2.611-.337,5.225-.507,7.836-.056.028-.111.055-.167.087-.16.09-.312.201-.465.322l-.729-7.115c.385-.281.774-.534,1.17-.763h.007Z"></path>
+        <polygon class="cls-237" points="80.197 114.563 79.523 114.172 78.794 107.061 79.468 107.449 80.197 114.563 80.197 114.563 80.197 114.563"></polygon>
+        <g class="cls-226">
+          <path class="cls-189" d="M79.468,107.449l-.673-.392c.385-.281.774-.534,1.17-.763l.673.392c-.396.229-.788.485-1.17.763h0Z"></path>
+        </g>
+      </g>
+      <g class="cls-230">
+        <path class="cls-90" d="M73.764,114.414l-.673-.392c.375-.745.795-1.474,1.253-2.17l.673.392c-.458.697-.878,1.425-1.253,2.17h0Z"></path>
+      </g>
+      <g class="cls-105">
+        <path class="cls-211" d="M80.637,105.677c5.391-3.107,9.772-.614,9.789,5.568.017,6.182-4.339,13.709-9.727,16.815-5.391,3.107-9.772.614-9.792-5.568-.017-6.182,4.339-13.709,9.727-16.815h.003ZM87.476,119.518c1.163-2.261,1.909-4.694,2.048-6.976.017-.267.024-.53.024-.79,0-.444-.028-.867-.076-1.269-.219-1.789-.903-3.145-1.913-3.994-.375-.315-.795-.558-1.253-.728-1.375-.513-3.093-.361-4.974.558-.229.111-.458.232-.691.367-.396.229-.788.485-1.17.763-1.68,1.22-3.207,2.898-4.454,4.792-.458.697-.878,1.425-1.253,2.17-1.014,2.018-1.691,4.167-1.902,6.217-.049.458-.069.912-.069,1.356,0,.263.01.52.028.766.153,2.112.909,3.679,2.079,4.59.378.295.798.524,1.257.676,1.232.416,2.732.316,4.367-.381.385-.163.774-.357,1.173-.586.219-.125.434-.26.649-.402,1.84-1.213,3.523-2.982,4.877-5.01.455-.683.875-1.394,1.25-2.122h0l.003.003h0Z"></path>
+        <path class="cls-211" d="M89.472,110.486c-2.104,1.408-4.211,2.815-6.314,4.219-.021.017-.132.097-.278.208.049.177.076.374.08.593.104-.042.181-.076.198-.083l6.366-2.881c.017-.267.024-.53.024-.79,0-.444-.028-.867-.076-1.269v.003Z"></path>
+        <path class="cls-211" d="M86.306,105.764c.458.17.878.416,1.253.728l-4.77,7.173c-.024.038-.181.267-.361.513-.104-.083-.222-.146-.347-.187.125-.284.246-.537.264-.579,1.319-2.548,2.642-5.1,3.961-7.648h0Z"></path>
+        <path class="cls-237" d="M80.665,114.976c.909-.524,1.652-.104,1.656.94,0,1.044-.732,2.316-1.645,2.843-.909.523-1.652.104-1.656-.943,0-1.044.732-2.316,1.645-2.843v.003Z"></path>
+        <path class="cls-211" d="M75.018,112.24c1.336,1.026,2.676,2.053,4.013,3.082.017.017.132.121.25.253-.132.191-.253.395-.361.6-.167-.038-.309-.083-.33-.09l-4.825-1.671c.375-.745.795-1.474,1.253-2.17v-.003Z"></path>
+        <polygon class="cls-150" points="64.375 25.272 62.795 26.222 45.088 46.695 45.692 46.837 63.58 26.187 64.375 25.272 64.375 25.272 64.375 25.272"></polygon>
+        <polygon class="cls-237" points="127.399 11.958 153.42 .378 202.521 15.418 203.187 16.874 155.499 43.228 127.399 11.958 127.399 11.958 127.399 11.958"></polygon>
+        <path class="cls-211" d="M64.375,25.272l-18.682,21.565c-.885.461-1.972,1.144-3.034,2.16-7.272,6.958-5.703,22.148-.951,28.656,7.304,10.003,30.37,10.786,54.312-3.793,3.35-10.772,6.7-21.545,10.049-32.317-1.802-3.086-6.016-9.288-13.899-13.549-12.583-6.799-25.031-3.523-27.798-2.722h.003Z"></path>
+        <polygon class="cls-237" points="65.711 27.463 56.078 38.561 55.689 42.937 61.146 42.937 97.633 58.306 93.36 68.222 83.894 69.914 49.163 54.167 45.692 46.837 63.58 26.187 65.711 27.463 65.711 27.463 65.711 27.463"></polygon>
+        <path class="cls-174" d="M45.692,46.837c.139.558.41,1.442.986,2.389,1.361,2.24,3.45,3.256,4.287,3.661,5.558,2.711,10.994,5.679,16.627,8.234,3.982,1.806,7.609,3.575,12.958,5.606,1.645.624,4.37,1.626,8.053,1.782,1.979.083,3.627-.104,4.759-.288-.601,1.397-1.205,2.791-1.805,4.188-5.509.506-17.381.829-30.315-5.312-9.317-4.421-15.423-10.408-18.811-14.305-.108-.191-.979-1.789-.236-3.54.583-1.38,1.944-2.316,3.496-2.42v.003Z"></path>
+        <path class="cls-188" d="M.347,90.488c.007,1.602.174,3.654.767,5.963.84,3.252,2.201,5.728,3.28,7.357,3.287,3.609,7.595,7.69,13.087,11.57,9.799,6.927,19.335,10.38,26.087,12.187,2.052.707,4.884,1.428,8.303,1.557,2.097.08,3.957-.083,5.505-.322.264-6.067.531-12.138.795-18.206L.347,90.488H.347Z"></path>
+        <path class="cls-237" d="M14.562,107.792c3.662,2.815,8.723,6.144,15.197,8.945,7.3,3.162,13.913,4.58,18.835,5.249.496-2.711.996-5.423,1.493-8.137l-32.057-11.376-3.468,5.315v.003h0Z"></path>
+        <path class="cls-237" d="M18.477,102.786c3.537,2.871,10.508,7.728,20.571,9.933,7.678,1.685,14.204,1.175,18.332.52v-16.351l-38.903-5.225v11.122h0Z"></path>
+        <polygon class="cls-185" points="154.687 16.535 153.01 17.471 151.625 16.874 144.002 20.539 130.002 12.932 154.687 2.257 154.687 16.535 154.687 16.535 154.687 16.535"></polygon>
+        <path class="cls-237" d="M3.232,84.393c-.555.447-1.829,1.598-2.489,3.564-.774,2.302-.215,4.265,0,4.909.965,1.983,2.34,4.341,4.304,6.757,3.308,4.077,6.918,6.636,9.515,8.169,1.156-1.772,2.312-3.543,3.468-5.315l-14.798-18.084h0Z"></path>
+        <path class="cls-237" d="M2.676,73.988l.601,11.247c.698,1.404,1.52,2.892,2.485,4.424,1.819,2.891,3.739,5.294,5.519,7.243.892.87,1.878,1.768,2.954,2.673,1.465,1.227,2.892,2.292,4.238,3.211v-11.122l-15.798-17.675h0Z"></path>
+        <path class="cls-201" d="M45.088,46.695c-9.924,5.717-17.953,10.377-23.907,13.751-5.297,3.003-10.199,6.65-15.388,9.833-.344.212-.712.472-1.08.804-1.121.999-1.718,2.132-2.034,2.905.441,1.134,1.139,2.729,2.187,4.528.844,1.446,3.985,6.577,11.906,12.02,9.865,6.778,20.852,9.722,26.045,10.89,1.802.35,3.607.704,5.408,1.054,16.426-10.027,32.852-20.054,49.278-30.081-8.05.336-14.697-.69-19.356-1.751-7.265-1.654-12.233-4.115-22.164-9.042-12.507-6.206-14.215-8.727-14.076-10.665.177-2.489,3.523-4.445,3.183-4.247h-.003Z"></path>
+        <path class="cls-201" d="M57.376,96.888v31.908l4.363-2.205c1.295-3.98,1.68-7.222,1.791-9.465.118-2.389-.045-4.344.927-6.854.809-2.087,2.017-3.581,2.909-4.511,3.322-2.663,7.678-5.672,13.118-8.338,3.881-1.903,7.522-3.249,10.716-4.213.857.579,2.989,2.188,4.155,5.152,1.489,3.783.371,7.128.059,7.981,2.295-1.29,4.589-2.576,6.887-3.866v-31.693l-4.801,1.612-40.121,24.488-.003.003h0Z"></path>
+        <path class="cls-201" d="M155.173,43.29l48.015-26.416.927,6.515-.927,8.994c-3.936,2.749-7.869,5.499-11.806,8.248.021-.18.028-.461-.066-.787-.128-.454-.382-.756-.521-.898-.229-.035-.489-.056-.778-.056-.531,0-.982.09-1.333.184-3.117,1.831-6.234,3.661-9.352,5.495-2.017,1.734-3.148,3.419-3.801,4.587-1.704,3.062-1.59,5.267-3.603,10.793-.496,1.359-.948,2.444-1.232,3.11-5.065,2.916-10.133,5.835-15.197,8.751l-.326-28.524v.003h0Z"></path>
+        <path class="cls-201" d="M64.375,25.272c4.728,2.982,10.445,6.123,17.145,8.945,9.192,3.873,17.638,6.057,24.549,7.326,2.534-2.333,5.065-4.667,7.599-7l31.63-14.004c-3.739-2.285-8.116-4.618-13.135-6.726-9.56-4.011-18.349-5.908-25.313-6.823-7.192,2.16-15.149,4.986-23.591,8.72-7.005,3.096-13.302,6.359-18.884,9.562h0Z"></path>
+        <path class="cls-237" d="M50.087,113.856l14.253-3.263c.246.624.521,1.55.555,2.697.056,1.862-.559,3.283-.927,3.987-1.607.926-3.565,1.886-5.863,2.708-3.659,1.307-6.963,1.82-9.515,2.011.496-2.711.996-5.423,1.493-8.137l.003-.003Z"></path>
+        <path class="cls-201" d="M95.227,72.459l10.848-30.916c.715-1.227,1.909-2.933,3.801-4.538,1.378-1.172,2.725-1.948,3.801-2.462,10.542-4.667,21.088-9.333,31.63-14.004.34.017,1.243.107,2.079.777.542.433.83.933.975,1.231,2.166,5.596,4.329,11.192,6.495,16.791.243.503.535,1.255.649,2.205.08.659.056,1.238,0,1.685v28.59l-53.197,30.663-7.074-30.018-.007-.003h0Z"></path>
+        <path class="cls-241" d="M155.016,39.712l45.974-24.762,1.531.468.666,1.46-.243.475-47.393,25.733c.035-.503.031-1.161-.108-1.914-.108-.579-.267-1.068-.427-1.463v.004Z"></path>
+        <polygon class="cls-241" points="127.399 11.958 153.649 .378 154.687 2.257 130.002 12.932 127.399 11.958 127.399 11.958 127.399 11.958"></polygon>
+        <polygon class="cls-241" points="154.687 2.257 198.754 16.15 200.99 14.947 153.649 .378 154.687 2.257 154.687 2.257 154.687 2.257"></polygon>
+        <polygon class="cls-117" points="154.687 2.257 154.687 16.535 181.454 25.469 198.754 16.15 154.687 2.257 154.687 2.257 154.687 2.257"></polygon>
+        <polygon class="cls-185" points="203.187 16.874 203.798 21.187 57.376 103.708 48.219 102.477 95.501 73.62 102.302 70.784 203.187 16.874 203.187 16.874 203.187 16.874"></polygon>
+        <polygon class="cls-185" points="155.888 11.681 155.888 15.182 184.043 24.082 188.278 21.801 155.888 11.681 155.888 11.681 155.888 11.681"></polygon>
+        <path class="cls-188" d="M124.178,33.988c.201-.007.625.007,1.055.26.205.118.354.26.455.375.816,1.903,1.611,3.921,2.36,6.057,1.59,4.525,2.718,8.817,3.52,12.766.184.912-.25,1.838-1.073,2.274-9.56,5.09-19.12,10.183-28.683,15.273-.115-.076-.382-.27-.548-.631-.128-.284-.135-.544-.128-.68-.031-.513-.056-1.328.017-2.316.153-2.129.663-3.807,2.031-7.6.812-2.254.785-2.077,1.51-4.084,1.336-3.693,1.569-4.66,2.583-7.44.476-1.311,1.222-3.28,2.239-5.689.844-.898,2.149-2.146,3.947-3.356,1.034-.697,1.934-1.175,3.506-1.945,1.756-.86,4.186-1.997,7.21-3.259v-.004Z"></path>
+        <path class="cls-188" d="M131.339,30.847l11.007-4.538c.222-.035.628-.073,1.107.066.413.118.708.319.878.454,1.326,2.025,2.888,4.857,4.058,8.46.968,2.978,1.402,5.662,1.59,7.798.038.166.097.544-.049.985-.174.52-.531.811-.666.908-1.569.981-3.232,1.969-4.985,2.951-2.263,1.266-4.464,2.396-6.575,3.405-.142.035-.694.149-1.277-.153-.503-.26-.729-.676-.802-.822-1.753-5.589-3.506-11.178-5.262-16.767-.059-.222-.194-.874.097-1.609.25-.635.684-.992.878-1.134v-.003Z"></path>
+        <path class="cls-188" d="M95.956,100.518l77.271-44.59c.184.298.43.766.562,1.387.16.739.09,1.359.021,1.73-.056.253-.125.52-.215.801-.292.898-.698,1.626-1.083,2.181-25.871,15.203-51.743,30.403-77.614,45.606.43-.888.962-2.254,1.142-3.994.128-1.241.042-2.309-.087-3.12h.003Z"></path>
+        <path class="cls-241" d="M156.332,41.914c.434.687.896,1.532,1.309,2.531.351.846.594,1.633.767,2.326.177,1.82.33,3.686.451,5.596.26,4.063.358,7.957.337,11.66-.364.211-.729.423-1.097.631.045-3.842-.08-7.953-.458-12.294-.146-1.664-.319-3.287-.521-4.861-.028-.634-.142-1.571-.552-2.625-.42-1.082-.982-1.865-1.395-2.358.385-.205.774-.406,1.159-.61v.003Z"></path>
+        <path class="cls-201" d="M106.072,41.543c2.006-1.838,5.197-4.538,9.484-7.26,1.638-1.04,5.332-3.283,17.54-8.339,3.253-1.349,7.765-3.162,13.232-5.204-.535-.184-1.069-.364-1.6-.548-4.586,1.831-8.223,3.262-10.417,4.126-.149.059-10.542,4.14-18.689,8.345-1.277.659-3.888,2.039-6.429,4.733-1.003,1.061-1.711,2.028-2.138,2.652-.326.499-.653.999-.979,1.494h-.003Z"></path>
+        <polygon class="cls-201" points="106.072 41.543 95.227 72.459 91.555 72.41 104.954 41.331 108.442 38.225 106.072 41.543 106.072 41.543 106.072 41.543"></polygon>
+        <polygon class="cls-133" points="91.555 72.41 92.759 75.25 95.501 73.62 95.227 72.459 91.555 72.41 91.555 72.41 91.555 72.41"></polygon>
+        <polygon class="cls-201" points="92.759 75.25 48.219 102.477 46.796 102.2 91.555 72.41 92.759 75.25 92.759 75.25 92.759 75.25"></polygon>
+        <path class="cls-227" d="M37.007,99.905c-.337-.097-.691.097-.785.433-.118.409-.215.888-.26,1.425-.087,1.099.094,2.028.295,2.694.09.302.305.551.59.686,1.819.846,3.988,1.699,6.484,2.392,1.899.527,3.669.874,5.262,1.103l.26-6.074c-1.513-.246-3.079-.534-4.69-.874-2.534-.534-4.922-1.141-7.161-1.782l.003-.003Z"></path>
+        <path class="cls-147" d="M48.855,102.564h6.168c.281-.021.701-.017,1.17.132.219.069.403.153.555.239.302.447.694,1.148.941,2.073.021.08.038.156.059.232.226.978-.382,1.959-1.364,2.181-.972.222-1.996.426-3.069.61-1.677.288-3.256.478-4.721.607l.26-6.074h0Z"></path>
+        <path class="cls-147" d="M41.28,108.059c-.493-.149-1.01.17-1.087.676-.017.108-.031.218-.038.333-.042.544.017,1.023.108,1.408.087.364.337.669.68.822,1.097.496,2.381.992,3.846,1.397,1.194.333,2.305.548,3.308.693l.163-3.817c-.951-.125-1.954-.288-3.003-.503-1.43-.291-2.76-.638-3.978-1.009h0Z"></path>
+        <path class="cls-147" d="M48.257,109.571h3.877c.177-.014.441-.01.736.083.135.042.253.097.347.149.187.281.437.721.59,1.304,0,.003,0,.01.003.014.177.68-.25,1.373-.937,1.529-.576.128-1.184.25-1.815.357-1.052.18-2.045.302-2.968.381l.163-3.817h.003Z"></path>
+        <path class="cls-227" d="M6.474,84.941v-2.396c0-.232-.062-.465-.184-.666-.347-.586-.694-1.189-1.038-1.81-.968-1.751-1.802-3.45-2.524-5.079-.101.09-.226.215-.337.392-.194.305-.25.603-.271.777-.028.427-.035.922.01,1.47.052.631.163,1.182.281,1.643.337.908.861,2.063,1.687,3.283.712,1.051,1.458,1.876,2.107,2.496.101.094.264.024.264-.115l.003.004Z"></path>
+        <path class="cls-147" d="M6.102,89.576v-2.153c-.285-.472-.566-.96-.847-1.467-.67-1.21-1.246-2.389-1.746-3.512-.069.062-.156.149-.233.27-.135.212-.174.416-.187.537-.021.295-.024.638.007,1.016.038.437.111.818.194,1.137.233.628.597,1.425,1.17,2.271.559.829,1.152,1.453,1.638,1.9h.003Z"></path>
+        <path class="cls-178" d="M7.439,84.306c-.163,1.116-.271,2.621-.069,4.382.208,1.844.687,3.349,1.121,4.424.59.784,1.274,1.619,2.069,2.476,1.017,1.092,2.02,2.011,2.951,2.777,2.215,1.699,4.103,3.096,5.558,4.115,2.135,1.494,4.218,2.857,6.231,4.102,1.083.61,2.298,1.227,3.641,1.82,1.291.569,2.524,1.033,3.666,1.415.257.035.531.059.83.069.545.021,1.038-.014,1.461-.069.194-.846.368-1.879.423-3.058.062-1.314-.038-2.462-.177-3.387-.163-.419-.41-.95-.795-1.508-.361-.524-.739-.922-1.055-1.217-4.155-1.189-9.969-3.384-16.027-7.586-4.273-2.964-7.494-6.112-9.817-8.758l-.01.003Z"></path>
+        <path class="cls-219" d="M170.307,57.616c.257-2.33.778-5.121,1.819-8.168.184-.541.378-1.064.576-1.567.694-1.765,1.861-3.304,3.378-4.445,1.722-1.293,3.707-2.628,5.967-3.904,2.489-1.404,4.849-2.479,6.967-3.308-.108.95-.215,1.9-.326,2.853l-9.352,5.495c-.483.413-1,.898-1.52,1.463-.684.742-1.232,1.47-1.67,2.122-.632,1.328-1.26,2.802-1.843,4.421-.42,1.165-.774,2.288-1.073,3.353l-2.923,1.685h0Z"></path>
+        <path class="cls-219" d="M189.011,36.224c.319.01.708.052,1.135.163.732.187,1.288.496,1.656.745.205.146.597.461.878,1.005.302.583.316,1.12.309,1.373-.535.375-1.073.749-1.607,1.123.021-.187.035-.544-.118-.953-.135-.361-.337-.603-.465-.732-.24-.035-.517-.059-.823-.052-.514.007-.951.09-1.288.184.108-.95.215-1.9.326-2.854l-.003-.003Z"></path>
+        <path class="cls-225" d="M156.134,57.616l-8.574,5.152c.135.395.267.891.34,1.474.09.725.059,1.352,0,1.831,2.843-1.654,5.682-3.308,8.525-4.958.104-.409.212-1.037.146-1.799-.066-.739-.271-1.321-.437-1.702v.003Z"></path>
+        <path class="cls-219" d="M8.466,85.443c-.073.988-.083,2.219.097,3.616.194,1.491.548,2.749.899,3.727.722,1.019,1.694,2.208,2.971,3.405.944.881,1.659,1.39,2.874,2.267,5.113,3.699,4.301,3.249,6.203,4.538,1.482,1.002,3.419,2.257,5.766,3.613.771.458,2.367,1.342,4.19,1.817,1.177.305,1.993.322,2.256.322.58,0,1.059-.055,1.399-.114-.076.392-.153.784-.229,1.179-.312.042-.666.073-1.055.076-.458.003-.875-.028-1.232-.076-.864-.288-1.767-.621-2.704-1.005-1.479-.607-2.815-1.255-4.013-1.903-1.656-.992-3.36-2.07-5.106-3.245-2.142-1.442-4.131-2.888-5.974-4.306-1.055-.766-2.232-1.73-3.437-2.926-1.17-1.158-2.117-2.295-2.881-3.315-.417-1.033-.861-2.43-1.083-4.129-.25-1.89-.135-3.502.035-4.674.344.378.687.759,1.027,1.137l-.003-.004Z"></path>
+        <polygon class="cls-237" points="9.778 84.757 10.178 95.12 10.841 95.886 10.327 85.298 9.778 84.757 9.778 84.757 9.778 84.757"></polygon>
+        <polygon class="cls-237" points="11.757 87.059 12.156 97.422 12.819 98.188 12.305 87.6 11.757 87.059 11.757 87.059 11.757 87.059"></polygon>
+        <polygon class="cls-237" points="13.805 88.775 14.201 99.138 14.864 99.908 14.354 89.319 13.805 88.775 13.805 88.775 13.805 88.775"></polygon>
+        <polygon class="cls-237" points="16.141 90.526 16.537 100.893 17.2 101.659 16.69 91.07 16.141 90.526 16.141 90.526 16.141 90.526"></polygon>
+        <polygon class="cls-237" points="18.866 92.624 19.265 102.987 19.928 103.753 19.415 93.165 18.866 92.624 18.866 92.624 18.866 92.624"></polygon>
+        <polygon class="cls-237" points="21.758 94.697 22.157 105.06 22.82 105.83 22.306 95.241 21.758 94.697 21.758 94.697 21.758 94.697"></polygon>
+        <polygon class="cls-237" points="24.486 96.094 24.882 106.457 25.545 107.224 25.035 96.635 24.486 96.094 24.486 96.094 24.486 96.094"></polygon>
+        <polygon class="cls-237" points="26.972 97.391 27.371 107.754 28.034 108.52 27.52 97.932 26.972 97.391 26.972 97.391 26.972 97.391"></polygon>
+        <polygon class="cls-237" points="29.259 98.622 29.658 108.985 30.321 109.751 29.808 99.163 29.259 98.622 29.259 98.622 29.259 98.622"></polygon>
+        <polygon class="cls-237" points="32.314 99.301 32.71 109.664 33.373 110.431 32.862 99.842 32.314 99.301 32.314 99.301 32.314 99.301"></polygon>
+        <path class="cls-185" d="M12.288,73.832v1.633c2.274,2.957,5.71,6.73,10.619,10.162,7.97,5.568,15.836,7.447,20.411,8.169.094-.281.184-.562.278-.843l-31.304-19.118-.003-.003h0Z"></path>
+        <path class="cls-201" d="M42.433,52.794l-30.145,21.035c2.392,3.38,7.106,9.098,14.937,13.542,6.481,3.679,12.514,5.027,16.367,5.575,11.872-7.357,23.744-14.711,35.615-22.068-6.418-1.73-14.257-4.486-22.643-8.987-5.53-2.968-10.233-6.126-14.135-9.101l.003.004Z"></path>
+        <path class="cls-201" d="M42.433,52.794c4.981,2.143,10.088,4.459,15.301,6.962,7.606,3.654,14.763,7.388,21.473,11.122-1.135.51-2.267,1.019-3.402,1.529-6.939-2.909-14.517-6.608-22.407-11.341-3.94-2.361-7.592-4.764-10.969-7.146v-1.13l.003.004h0Z"></path>
+        <polygon class="cls-193" points="43.318 93.792 79.207 70.881 43.592 92.949 43.318 93.792 43.318 93.792 43.318 93.792"></polygon>
+        <path class="cls-185" d="M54.1,58.032l-29.082,23.767,34.796-21.035c-1.055-.517-2.124-1.03-3.201-1.543-.84-.402-1.68-.797-2.513-1.189h0Z"></path>
+        <polygon class="cls-185" points="42.433 52.794 21.188 68.638 12.83 74.581 12.288 73.832 42.433 52.794 42.433 52.794 42.433 52.794"></polygon>
+        <path class="cls-201" d="M45.088,46.695c-9.831,5.814-19.543,11.809-29.141,17.991-3.683,2.371-7.349,4.771-10.997,7.194-.174.115-.403.302-.68.534-.725.603-1.253,1.165-1.586,1.546.205-.499.521-1.12,1.003-1.761.316-.416.635-.759.927-1.03,3.575-2.33,7.175-4.629,10.792-6.896,9.744-6.099,19.637-11.958,29.683-17.578h0Z"></path>
+        <path class="cls-201" d="M3.263,73.066c1.458,2.996,3.676,6.806,7.029,10.71,3.982,4.639,8.123,7.735,11.237,9.704-3.485-1.657-9.157-4.965-13.951-11.143-2.322-2.992-3.864-5.922-4.898-8.352l.587-.922-.003.003h0Z"></path>
+        <path class="cls-133" d="M64.375,25.272c4.714,2.975,10.435,6.12,17.145,8.945,8.748,3.686,16.794,5.832,23.431,7.115-.177.409-.354.818-.528,1.227-7.113-1.546-15.534-3.987-24.622-7.936-6.186-2.687-11.594-5.603-16.221-8.432.264-.305.531-.614.795-.919h0Z"></path>
+        <path class="cls-158" d="M131.051,55.373c-.861.51-1.725,1.016-2.593,1.519-8.925,5.183-17.822,9.878-26.645,14.125-.083-.038-.246-.121-.385-.298-.128-.16-.174-.323-.194-.409,7.967-3.897,16.145-8.29,24.452-13.248,1.996-1.189,3.954-2.389,5.88-3.592.049.173.104.461.052.804-.09.589-.434.964-.569,1.096l.003.003Z"></path>
+        <path class="cls-158" d="M130.7,54.014c-.385-2.642-.975-5.592-1.874-8.758-1.246-4.389-2.791-8.155-4.297-11.251.121.017.274.049.441.115.101.038.191.083.264.128.076.031.212.101.337.236.115.121.17.25.198.326,1.045,2.451,2.072,5.142,3.023,8.071,1.236,3.807,2.131,7.385,2.791,10.644-.295.163-.587.329-.882.492v-.004Z"></path>
+        <path class="cls-158" d="M143.45,26.371c1.541,2.326,3.433,5.769,4.676,10.242.875,3.159,1.194,5.991,1.281,8.248.115-.121.24-.271.364-.444.132-.184.236-.364.316-.52-.16-2.146-.545-4.788-1.42-7.711-1.201-4.015-2.905-7.153-4.339-9.361-.292-.153-.583-.302-.878-.454h0Z"></path>
+        <path class="cls-126" d="M45.692,46.837c.135.413.267.825.403,1.234-.316.153-1.815.908-2.423,2.659-.389,1.127-.219,2.111-.115,2.552-.375-.163-.75-.326-1.128-.485-.194-.291-.483-.818-.531-1.515-.08-1.144.535-1.98.913-2.493.732-.995,1.642-1.446,1.993-1.612.354-.17.663-.27.889-.336v-.003Z"></path>
+        <polygon class="cls-126" points="45.088 46.695 43.429 48.092 45.748 47.01 45.748 46.771 45.088 46.695 45.088 46.695 45.088 46.695"></polygon>
+        <path class="cls-174" d="M45.692,46.837c-.264.409-.531.853-.791,1.335-.333.614-.614,1.203-.85,1.754l2.086-1.758-.444-1.331h0Z"></path>
+        <polygon class="cls-158" points="45.088 46.695 43.741 47.492 43.106 48.227 43.29 48.227 45.088 46.695 45.088 46.695 45.088 46.695"></polygon>
+        <path class="cls-237" d="M92.338,51.53c3.33,1.489,5.398,4.104,4.619,5.842-.779,1.737-4.109,1.938-7.439.449-3.33-1.489-5.398-4.104-4.619-5.842.779-1.737,4.109-1.938,7.439-.449h0Z"></path>
+        <polygon class="cls-212" points="75.316 32.473 75.316 36.554 84.9 40.894 84.9 36.828 75.316 32.473 75.316 32.473 75.316 32.473"></polygon>
+        <polygon class="cls-133" points="203.659 20.189 158.293 46.327 158.408 46.771 203.798 21.187 203.659 20.189 203.659 20.189 203.659 20.189"></polygon>
+        <path class="cls-187" d="M127.399,64.249c-.007-.166-.003-.364.028-.586.056-.378.174-.679.278-.891.743-.614,1.739-1.324,3.003-1.962,1.423-.718,2.735-1.109,3.752-1.335.16.073.85.409,1.135,1.189.288.78.059,1.695-.583,2.333-.882.676-2.048,1.449-3.506,2.139-1.423.673-2.735,1.078-3.801,1.328-.069-.433-.135-.874-.194-1.328-.038-.302-.076-.596-.108-.891l-.003.003Z"></path>
+        <polygon class="cls-170" points="95.956 100.518 173.23 55.931 165.111 61.506 96.085 101.676 95.956 100.518 95.956 100.518 95.956 100.518"></polygon>
+        <polygon class="cls-183" points="95.227 72.459 97.983 79.92 99.15 98.677 98.719 98.927 97.501 80.468 95.227 72.459 95.227 72.459 95.227 72.459"></polygon>
+        <polygon class="cls-183" points="137.875 76.332 136.817 58.941 134.147 53.768 137.011 58.83 138.007 76.255 137.875 76.332 137.875 76.332 137.875 76.332"></polygon>
+        <path class="cls-225" d="M127.1,32.449c1.274,2.437,2.555,5.194,3.746,8.259,1.583,4.088,2.68,7.905,3.45,11.286-.24.107-.483.211-.722.319-.809-3.263-1.881-6.854-3.312-10.675-1.27-3.394-2.638-6.459-3.995-9.188h.837-.003Z"></path>
+        <path class="cls-201" d="M61.778,94.277c-1.055,1.03-2.413,2.593-3.541,4.764-.746,1.439-1.205,2.784-1.493,3.89-1.357-.26-2.461-.343-3.218-.367-.937-.031-1.451.017-2.857,0-1.052-.014-1.906-.052-2.451-.087,4.52-2.732,9.039-5.468,13.559-8.2h0Z"></path>
+        <path class="cls-188" d="M64.677,115.389c-.181,1.449-.451,3.034-.854,4.722-.587,2.469-1.329,4.639-2.083,6.483-.455.437-1.159,1.016-2.138,1.491-.861.416-1.645.614-2.225.714-.031-2.843-.062-5.69-.094-8.533,1.166-.541,2.489-1.245,3.877-2.163,1.392-.919,2.558-1.855,3.516-2.711v-.003Z"></path>
+        <path class="cls-232" d="M203.187,32.386l-11.806,8.248c.035.354.062.725.083,1.103.021.361.031.711.038,1.051,4.19-2.867,8.376-5.738,12.566-8.605-.031-.225-.097-.524-.24-.849-.194-.444-.455-.756-.642-.947h0Z"></path>
+        <path class="cls-147" d="M203.423,18.528c.233.028.521.087.837.212.569.222.958.551,1.184.78.139.322.278.693.389,1.116.215.811.267,1.539.26,2.108-.347,2.874-.694,5.748-1.038,8.623-.163.257-.413.586-.781.908-.305.271-.604.454-.844.583-.201.038-.399.076-.601.114-.222.042-.441.087-.663.128.073-3.703.146-7.406.215-11.112l1.416-.797-.378-2.663h.003Z"></path>
+        <path class="cls-133" d="M173.23,46.747c-.823,1.338-1.663,2.881-2.447,4.625-1.222,2.722-1.999,5.253-2.503,7.413.677-.388,1.35-.78,2.027-1.168.181-1.74.521-3.793,1.159-6.043.524-1.841,1.146-3.453,1.76-4.826h.003Z"></path>
+        <polygon class="cls-117" points="153.01 17.471 153.01 2.982 151.493 3.637 151.493 16.874 153.01 17.471 153.01 17.471 153.01 17.471"></polygon>
+        <polygon class="cls-185" points="155.888 4.008 155.888 7.506 192.808 19.353 197.043 17.072 155.888 4.008 155.888 4.008 155.888 4.008"></polygon>
+        <polygon class="cls-128" points="202.521 15.418 155.551 40.894 155.016 39.712 200.99 14.947 202.521 15.418 202.521 15.418 202.521 15.418"></polygon>
+        <path class="cls-98" d="M153.427.378l-26.028,11.58.399.139L154.065.572c-.035-.042-.139-.163-.326-.208-.142-.035-.26-.007-.312.01v.003Z"></path>
+        <polygon class="cls-185" points="145.707 57.374 138.695 61.506 139.132 68.995 145.901 65.05 145.707 57.374 145.707 57.374 145.707 57.374"></polygon>
+        <path class="cls-208" d="M143.711,58.573l-2.711,1.63c.042.125.083.281.108.468.028.229.017.427,0,.579.899-.523,1.798-1.047,2.697-1.567.031-.128.066-.326.045-.569-.021-.232-.087-.419-.139-.537v-.003Z"></path>
+        <path class="cls-237" d="M101.573,64.7c1.961.087,4.426.361,7.186,1.085,2.78.732,5.078,1.706,6.835,2.604.212.298.958,1.404.83,2.957-.108,1.304-.771,2.177-1.028,2.483-2.166-.17-4.672-.51-7.411-1.144-2.544-.589-4.787-1.321-6.703-2.063-.246-.51-.607-1.432-.621-2.628-.017-1.609.604-2.791.913-3.294h0Z"></path>
+      </g>
+    </g>
+  </g>
+</svg>
